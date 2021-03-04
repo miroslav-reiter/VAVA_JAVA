@@ -43,3 +43,10 @@
   <li>Prezentácia – 10 bodov</li>
 </ol>
 
+#### Námety na projekty
+1. [JDownloader v2](https://jdownloader.org/)
+1. [muCommander v2](https://www.mucommander.com/)
+1. [Plánovač Kurzov a Skúšok](https://home.pearsonvue.com/) vid. prílohy
+1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
+
+
