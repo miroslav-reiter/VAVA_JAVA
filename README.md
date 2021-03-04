@@ -30,8 +30,14 @@
 ## ☕ YouTube video záznamy z prednášok a cvičení Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=0aV5g2rQCl8&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24)
 
+## Podmienky na absolvovanie predmetu
+* **70 %** formou **samostatnej práce** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a JEE 
+  * **Zadania** po cvičeniach
+  * **Aktivita** na cvičeniach
+* **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške**
+
 ## Hodnotenia, zadania, projekt
-1. Zadanie (do 5. cvičenia) – 10 bodov - Fakturačný systém (SuperFaktura v2)
+1. Zadanie (do 5. cvičenia) – 10 bodov - **Fakturačný systém (SuperFaktura v2)**
 1. Zadanie (do 7. cvičenia) – 10 bodov
 1. Zadanie (do 8. cvičenia) – 10 bodov
 1. Zadanie (do 10. cvičenia) – 10 bodov
