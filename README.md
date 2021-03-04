@@ -3,6 +3,7 @@
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou
 * STU FIIT v Bratislave 2021
 * Prednášajúci: PhDr. Ing. Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
+* Kontakt: miroslav.reiter@it-academy.sk | qreiterm@is.stuba.sk
 
 ## Sylabus/Čo nás čaká a neminie...
 
@@ -48,5 +49,3 @@
 1. [muCommander v2](https://www.mucommander.com/)
 1. [Plánovač Kurzov a Skúšok](https://home.pearsonvue.com/) vid. prílohy
 1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
-
-
