@@ -57,3 +57,5 @@
 1. [muCommander v2](https://www.mucommander.com/)
 1. [Plánovač Kurzov a Skúšok](https://home.pearsonvue.com/) vid. prílohy
 1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
+
+Vlastný projekt **musí obsahovať** veci z odprednášaných tém: **Kolekcie, Logovanie, Internacionalizácia, XML, I/O, Regulárne výrazy**
