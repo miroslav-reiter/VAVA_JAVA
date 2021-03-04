@@ -40,7 +40,7 @@
 
 <ol type="A">
   <li>Zámer – 5 bodov – (do 5. cvičenia)</li>
-  <li>Program a dokumentácia vrátane UML (do 11. cvičenia) – 15 bodov</li>
+  <li>Program a dokumentácia vrátane UML – 15 bodov – (do 11. cvičenia) </li>
   <li>Prezentácia – 10 bodov</li>
 </ol>
 
