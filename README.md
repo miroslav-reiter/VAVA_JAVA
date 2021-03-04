@@ -5,7 +5,7 @@
 * Prednášajúci: PhDr. Ing. Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: miroslav.reiter@it-academy.sk | qreiterm@is.stuba.sk
 * Verzia Javy/JDK: minimum SE 8/1.8
-* Preferované IDE: Netbeans (alebo podľa preferencií Eclips/IntelliJ IDEA)
+* Preferované IDE: Netbeans (alebo podľa preferencií Eclipse/IntelliJ IDEA)
 
 ## Sylabus/Čo nás čaká a neminie...
 
