@@ -63,7 +63,7 @@ Pri zadaniach aj projektoch sa odovzdávajú sa **zdrojové kódy** a **projekt
 Rovnako študent pripraví **krátke video** (max. 5 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video.
 
 Vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
-Video ma zodpovedať na otázky: 
+Video ma odpovedať na otázky: 
 1. Ako funguje aplikácia? 
 2. Čo ste sa pri tom naučili? 
 3. Čo vám robilo problémy (vrásky na tvári)? Ako ste sa s tým vysporiadali?
