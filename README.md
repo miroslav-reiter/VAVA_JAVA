@@ -40,16 +40,15 @@
 
 ## Hodnotenia, zadania, projekt
 1. Zadanie (do 5. cvičenia) – 10 bodov - **Fakturačný systém (SuperFaktura v2)**
-1. Zadanie (do 7. cvičenia) – 10 bodov - **IT profesia (Interaktívny dashboard)**
-1. Zadanie (do 8. cvičenia) – 10 bodov
-1. Zadanie (do 10. cvičenia) – 10 bodov
+1. Zadanie (do 8. cvičenia) – 10 bodov - **IT profesia (Interaktívny dashboard)**
+1. Zadanie (do 10. cvičenia) – 10 bodov - **Informačný systém pre hotel (Booking v2) **
 
-### Vlastný projekt (do 11/12 cvičenia) – 30 bodov
+### Vlastný projekt (do 11/12 cvičenia) – 40 bodov
 
 <ol type="A">
   <li>Zámer – 5 bodov – (do 5. cvičenia)</li>
-  <li>Program a dokumentácia vrátane UML – 15 bodov – (do 11. cvičenia) </li>
-  <li>Prezentácia – 10 bodov</li>
+  <li>Program a dokumentácia vrátane UML – 20 bodov – (do 11/12. cvičenia) </li>
+  <li>Prezentácia – 15 bodov</li>
 </ol>
 
 #### Námety na projekty
@@ -59,3 +58,14 @@
 1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
 
 Vlastný projekt **musí obsahovať** veci z odprednášaných tém: **Kolekcie, Logovanie, Internacionalizácia, XML, I/O, Regulárne výrazy**
+
+Pri zadaniach aj projektoch sa odovzdávajú sa **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS.
+Rovnako študent pripraví **krátke video** (max. 5 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video.
+
+Vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
+Video ma zodpovedať na otázky: 
+1. Ako funguje aplikácia? 
+2. Čo ste sa pri tom naučili? 
+3. Čo vám robilo problémy (vrásky na tvári)? Ako ste sa s tým vysporiadali?
+
+Berte to ako priateľský rozhovor s ďalším developerom alebo zákazníkom.
