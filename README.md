@@ -41,7 +41,7 @@
 ## Hodnotenia, zadania, projekt
 1. Zadanie (do 5. cvičenia) – 10 bodov - **Fakturačný systém (SuperFaktura v2)**
 1. Zadanie (do 8. cvičenia) – 10 bodov - **IT profesia (Interaktívny dashboard)**
-1. Zadanie (do 10. cvičenia) – 10 bodov - **Informačný systém pre hotel (Booking v2) **
+1. Zadanie (do 10. cvičenia) – 10 bodov - **Informačný systém pre hotel (Booking v2)**
 
 ### Vlastný projekt (do 11/12 cvičenia) – 40 bodov
 
