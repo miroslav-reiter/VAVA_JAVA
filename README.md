@@ -60,7 +60,7 @@
 Vlastný projekt **musí obsahovať** veci z odprednášaných tém: **Kolekcie, Logovanie, Internacionalizácia, XML, I/O, Regulárne výrazy**
 
 Pri zadaniach aj projektoch sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS.
-Rovnako študent pripraví **krátke video** (max. 5 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video.
+Rovnako študent pripraví **krátke video** (5-10 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video.
 
 Vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
 Video ma odpovedať na otázky: 
