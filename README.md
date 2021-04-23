@@ -60,7 +60,7 @@
 Vlastný projekt **musí obsahovať** veci z odprednášaných tém: **Kolekcie, Logovanie, Internacionalizácia, XML, I/O, Regulárne výrazy**
 
 Pri zadaniach aj projektoch sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS.
-Rovnako študent pripraví **krátke video** (5-10 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video.
+Rovnako študent pripraví **krátke video** (10-15 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video.
 
 Vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
 Video ma odpovedať na otázky: 
@@ -69,3 +69,21 @@ Video ma odpovedať na otázky:
 3. Čo vám robilo problémy (vrásky na tvári)? Ako ste sa s tým vysporiadali?
 
 Berte to ako priateľský rozhovor s ďalším developerom alebo zákazníkom.
+
+## Odporúčane zdroje, knihy, príprava na skúšku
+### Základné knihy:
+1. BLOCH, J. Effective Java. Boston: Addison - Wesley, 2nd edition, 2008. ISBN 03-213-566-8-3
+1. NAFTALIN, M. -- WADLER, P. Java Generics and Collections. Sebastopol, USA: O'Reilly Media, 1st edition, 2006. 286 s. ISBN 05-965-277-5-6
+1. GAMMA, E. -- HELM, R. -- JOHNSON, R. -- VLISSIDES, J. Design Patterns. Elements of Reusable Object-Oriented Software. Boston : Addison Wesley, 1994. 395 s. ISBN 0-201-63361-2
+1. SIERA, K. Head First Java. O'Reilly
+1. FREEMAN, E. Head First Design Patterns. O'Reilly
+
+### Príprava na skúšku, certifikačnú skúšku:
+1. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809. Sybex
+1. SIERA, K. OCA & OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804)]. Oracle Press
+1. Oracle Certified Professional, Java SE 8 Programmer Certification Overview https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357
+
+### Elektronické zdroje:
+1. Oracle Java Dokumentácia: Java Platform, Standard Edition 8 API Specification https://docs.oracle.com/javase/8/docs/api/
+1. Oracle Blog java https://blogs.oracle.com/java/
+1. Dzone Java Spotlight https://dzone.com/java-jdk-development-tutorials-tools-news
