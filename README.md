@@ -36,7 +36,7 @@
 * **70 %** formou **samostatnej práce** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a JEE 
   * **Zadania** po cvičeniach
   * **Aktivita** na cvičeniach
-* **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške**
+* **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP**
 
 ## Hodnotenia, zadania, projekt
 1. Zadanie (do 5. cvičenia) – 10 bodov - **Fakturačný systém (SuperFaktura v2)**
@@ -78,10 +78,11 @@ Berte to ako priateľský rozhovor s ďalším developerom alebo zákazníkom.
 1. SIERA, K. Head First Java. O'Reilly
 1. FREEMAN, E. Head First Design Patterns. O'Reilly
 
-### Príprava na skúšku, certifikačnú skúšku:
-1. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809. Sybex
-1. SIERA, K. OCA & OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804)]. Oracle Press
-1. Oracle Certified Professional, Java SE 8 Programmer Certification Overview https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357
+### Príprava na skúšku, certifikačnú skúšku OCP:
+1. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide. John Wiley.  
+2. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809. Sybex
+3. SIERA, K. OCA & OCP Java SE 7 Programmer I & II Study Guide (Exams 1Z0-803 & 1Z0-804)]. Oracle Press
+4. Oracle Certified Professional, Java SE 8 Programmer Certification Overview https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357
 
 ### Elektronické zdroje:
 1. Oracle Java Dokumentácia: Java Platform, Standard Edition 8 API Specification https://docs.oracle.com/javase/8/docs/api/
