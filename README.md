@@ -36,7 +36,7 @@
 * **70 %** formou **samostatnej práce** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a JEE 
   * **Zadania** po cvičeniach
   * **Aktivita** na cvičeniach
-* **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP**
+* **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## Hodnotenia, zadania, projekt
 1. Zadanie (do 5. cvičenia) – 10 bodov - **Fakturačný systém (SuperFaktura v2)**
