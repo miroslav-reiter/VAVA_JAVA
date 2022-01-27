@@ -1,7 +1,7 @@
 # ☕ VAVA-JAVA
 
-* Vývoj Aplikácií s Viacvrstvovou Architektúrou
-* STU FIIT v Bratislave 2021
+* Vývoj Aplikácií s Viacvrstvovou Architektúrou VAVA 
+* Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT v Bratislave 2021
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP
 * Kontakt: miroslav.reiter@it-academy.sk | qreiterm@is.stuba.sk
 * Komunikácia: Skype a Google Meet
