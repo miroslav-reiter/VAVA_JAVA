@@ -52,14 +52,12 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 11 Developer 1Z0-819**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-819**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## 🔥 Hodnotenia, tímový projekt
-### Vlastný projekt (do 11 cvičenia) – 70 bodov
-Utvoríte **tímy po 5 členoch**  
+### Vlastný projekt (do 11. cvičenia) – 70 bodov
+Vytvoríte **tímy po 5 členoch**  
 V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí  
 
-
-A. **Projektový zámer** – 10 bodov – (do 5. cvičenia)</li>
-B. **Program**, **video prezentácia** a **dokumentácia vrátane UML/EA diagramov** – 60 bodov – (do 11/12. cvičenia) </li>
-
+A. **Projektový zámer** – 10 bodov – (do 5. cvičenia)
+B. **Program**, **video prezentácia** a **dokumentácia vrátane UML/EA diagramov** – 60 bodov – (do 11/12. cvičenia)  
 
 #### 💡 Námety na projekty
 1. [JDownloader v2](https://jdownloader.org/)
@@ -99,7 +97,7 @@ Video ma odpovedať na otázky:
 
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
 
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iní projekty (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci. Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iné projekty v rámci svojej skupiny (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
