@@ -33,7 +33,7 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 * Získať prehľad o platforme Java (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
 * Zdokonaliť sa vo vývoji programov pre platformu Java (Java Standard Edition)
 * Naučiť sa tvoriť desktopové GUI aplikácie vo SWING/JavaFX
-* Nadobudnúť zručnosti vo využívaní vybraných rozhraní a rozširujúcich knižníc platformy Java (Java Standard Edition)
+* Nadobudnúť zručnosti vo využívaní vybraných rozhraní a rozširujúcich knižníc platformy Java (Standard Edition)
 * Pripraviť sa na neskorší vývoj rozsiahlych viacvrstvových enterprise aplikácií
 * Zasadenie Java v kontexte JEE a .NET technológií
 
@@ -99,7 +99,7 @@ Video ma odpovedať na otázky:
 
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
 
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent si vyberie svoje top 3 projekty (mimo svoj projekt) a zhodnotí ho (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 bodov, samozrejme v rámci povoleného počtu 60 bodov za projekt). Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iní projekty (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci. Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
