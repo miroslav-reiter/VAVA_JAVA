@@ -8,12 +8,12 @@
 * Preferované IDE: Netbeans 12 (alebo podľa preferencií Eclipse/IntelliJ IDEA)
 
 ## Organizácia predmetu
-Prednášky: Každý štvrtok 18:00-19:40  
-Cvičenia: Každý utorok **formou konzultácii**
+**Prednášky**: Každý štvrtok 18:00-19:40  
+**Cvičenia**: Každý utorok **formou konzultácii**
 1. skupina od 17:00
 2. skupina od 19:00
 
-Osobitné konzultácie: **Piatok 13:00-14:00**
+Osobitné **konzultácie**: **Piatok 13:00-14:00**
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy
