@@ -81,7 +81,7 @@ V projekte treba dodržovať odporúčané postupy (best practices) a konvencie.
 
 Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/moduly)** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu. Rovnako každý tím nahrá všetky súbory do verejného repozitára na GitHub/Gitlab/Bitbucket, aby bol k dispozícii iným tímom v skupine na hodnotenie.
 
-Rovnako tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. **Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video**. **Video musí byť verejne dostupné cez odkaz** v popise miesta odovzdania. V prípade nedostupnosti odkazu na video či nefukčnosti aplikácie sa projekt hodnotí 0 bodmi.
+Ďalej tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. **Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video**. **Video musí byť verejne dostupné cez odkaz** v popise miesta odovzdania. V prípade nedostupnosti odkazu na video či nefukčnosti aplikácie sa projekt hodnotí 0 bodmi.
 
 Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy/nepadá/out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
 Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom.
