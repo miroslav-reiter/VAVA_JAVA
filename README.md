@@ -1,6 +1,6 @@
 # ☕ VAVA-JAVA
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
-* Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT v Bratislave 2022
+* Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT 2022
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP
 * Kontakt: miroslav.reiter@it-academy.sk | qreiterm@is.stuba.sk
 * Komunikácia: Skype a Google Meet
@@ -8,7 +8,7 @@
 * Preferované IDE: Netbeans 12 (alebo podľa preferencií Eclipse/IntelliJ IDEA)
 
 ## Organizácia predmetu
-Prednášky: Každý štvrtok 18:00-19:40
+Prednášky: Každý štvrtok 18:00-19:40  
 Cvičenia: Každý utorok **formou konzultácii**
 1. skupina od 17:00
 2. skupina od 19:00
@@ -58,8 +58,7 @@ V tíme je 1 vedúci, každá skupina si ho demokraticky zvolí alebo sa sám di
 
 <ol type="A">
   <li>Zámer – 10 bodov – (do 5. cvičenia)</li>
-  <li>Program a dokumentácia vrátane UML/EA – 45 bodov – (do 11/12. cvičenia) </li>
-  <li>Prezentácia – 15 bodov</li>
+  <li>Program, video prezentácia a dokumentácia vrátane UML/EA diagramov – 60 bodov – (do 11/12. cvičenia) </li>
 </ol>
 
 #### 💡 Námety na projekty
@@ -74,22 +73,31 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém:
 1. Lokalizácia (Preklady a lokalizácia ENG a SK)
 1. XML (Použitá 1 vybraná XML technológia, spracovanie/parsovanie XML dokumentov, import/export do XML, SAX, DOM, StAX, JAXB, XStream, Jackson XML, XPATH, XQUERY)
 1. Regulárne výrazy (Vyhľadávanie s prepínačmi, filtrovanie)
-1. JDBC (Pripojenie na vybranú databázu Derby, MySQL, PostgreSQL, SQLite)
+1. JDBC (Pripojenie na vybranú databázu Derby, MySQL, PostgreSQL, SQLite, ukladanie dát do DB)
 1. Ošetrenie/validácia vstupov + bezpečnosť (Ochrana voči základným SQL injekciám)
 1. GUI aplikácia (Swing, JavaFX, Vaadin) 
+2. Aplikácia by mala byť navrhnutá pre 3 rôznych používateľov/aktérov napr. admin, power/super user, používateľ (user)
+3. Dátové zložky musia byť zapúzdrené (všetky private). 
+4. Využite objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY).
+5. Myslite na príjemné používateľské rozhranie na jednej strane a na druhej na dobrý návrh a štruktúru
 
 Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS.
-Rovnako tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video. Odkaz musí byť verejne dostupný. V prípade nedostupnosti odkazu na video či nefukčnosti aplikácie sa projekt hodnotí 0 bodmi.
+Rovnako tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašlete odkaz na YouTube/Vimeo video. Odkaz musí byť verejne dostupný. V prípade nedostupnosti odkazu na video či nefukčnosti aplikácie sa projekt hodnotí 0 bodmi.
 
-Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy/nepadá. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
-Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti.
+Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy/nepadá/out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
+Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom.
 
 Video ma odpovedať na otázky: 
 1. Ako funguje aplikácia? 
-2. Čo ste sa pri tom naučili? 
-3. Čo vám robilo problémy (vrásky na tvári)? Ako ste sa s tým vysporiadali?
+2. Aká je biznis a aplikačná logika/vrstva SW?
+3. Aká je architektúra SW a použité návrhové vzory?
+4. Aké komponenty ste použili a prečo?
+5. Čo ste sa pri tom naučili? 
+6. Čo vám robilo problémy (vrásky na tvári)? Ako ste sa s tým vysporiadali?
 
-Berte to ako priateľský rozhovor s potenciálnym investor alebo zákazníkom, ktorý je technologicky orientovaný.
+Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
+
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent si vyberie svoje top 3 projekty (mimo svoj projekt) a zhodnotí ho (kvalita/prevedenie/realizácia/splnenie požiadaviek). Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 bodov samozrejme v rámci povolenéjo počtu 60 bodov za projekt). Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
@@ -103,7 +111,7 @@ Berte to ako priateľský rozhovor s potenciálnym investor alebo zákazníkom, 
 1. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide. 2020. John Wiley. 1032 s. ISBN 1119619130
 2. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 11 Developer Practice Tests. John Wiley. 2021. 608 s. ISBN 1119696135
 3. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809. Sybex
-4. Oracle Certified Professional, ava SE 11 Developer Certification Overview https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
+4. Oracle Certified Professional, Java SE 11 Developer Certification Overview https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ### 🌐 Elektronické zdroje:
 1. Oracle Java Dokumentácia: Java Platform, Standard Edition 11 API Specification, 2021, https://docs.oracle.com/en/java/javase/11/docs/api/
