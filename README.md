@@ -2,7 +2,7 @@
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
 * Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT 2022
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP
-* Kontakt: miroslav.reiter@it-academy.sk | qreiterm@is.stuba.sk
+* Kontakt: riaditel@it-academy.sk | qreiterm@is.stuba.sk
 * Komunikácia: Skype
 * Verzia Javy/JDK: Java SE JDK 11
 * Preferované IDE: Netbeans 12 (alebo podľa preferencií Eclipse/IntelliJ IDEA)
