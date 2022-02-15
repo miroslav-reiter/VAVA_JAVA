@@ -53,7 +53,7 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 70 bodov
-Vytvoríte **tímy po 5 členoch**  
+Vytvoríte **tímy o 5 členoch**  
 V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí  
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl, kompetencií – 10 bodov – (do 5. cvičenia)  
