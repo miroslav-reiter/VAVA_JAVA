@@ -52,7 +52,7 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 11 Developer 1Z0-819**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-819**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## 🔥 Hodnotenia, tímový projekt
-### Vlastný projekt (do 11/12 cvičenia) – 70 bodov
+### Vlastný projekt (do 11 cvičenia) – 70 bodov
 Utvoríte tímy po 5 členoch
 V tíme je 1 vedúci, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí
 
