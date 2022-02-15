@@ -78,8 +78,9 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať:
 1. GUI aplikácia (Swing, JavaFX, Vaadin) 
 2. Aplikácia by mala byť navrhnutá pre 3 rôznych používateľov/aktérov napr. admin, power/super user, používateľ (user)
 3. Dátové zložky musia byť zapúzdrené (všetky private)
-4. Využite objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY)
-5. Myslite na príjemné používateľské rozhranie na jednej strane a na druhej na dobrý návrh a štruktúru
+4. Dodržovanie odporúčaných postupov (best practices) a konvencií
+5. Využite objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY)
+6. Myslite na príjemné používateľské rozhranie na jednej strane a na druhej na dobrý návrh a štruktúru
 
 Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. v prípade neodovzdania projektu do stanového času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu.
 
@@ -98,7 +99,7 @@ Video ma odpovedať na otázky:
 
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
 
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent si vyberie svoje top 3 projekty (mimo svoj projekt) a zhodnotí ho (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 bodov samozrejme v rámci povoleného počtu 60 bodov za projekt). Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent si vyberie svoje top 3 projekty (mimo svoj projekt) a zhodnotí ho (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 bodov, samozrejme v rámci povoleného počtu 60 bodov za projekt). Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
