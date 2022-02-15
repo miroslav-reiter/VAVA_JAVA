@@ -81,8 +81,9 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať:
 4. Využite objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY)
 5. Myslite na príjemné používateľské rozhranie na jednej strane a na druhej na dobrý návrh a štruktúru
 
-Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS.
-Rovnako tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. Do popisu v miestach odovzdania zašlete odkaz na YouTube/Vimeo video. Odkaz musí byť verejne dostupný. V prípade nedostupnosti odkazu na video či nefukčnosti aplikácie sa projekt hodnotí 0 bodmi.
+Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. v prípade neodovzdania projektu do stanového času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu.
+
+Rovnako tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. **Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video**. **Video musí byť verejne dostupný cez odkaz**. V prípade nedostupnosti odkazu na video či nefukčnosti aplikácie sa projekt hodnotí 0 bodmi.
 
 Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy/nepadá/out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
 Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom.
@@ -97,7 +98,7 @@ Video ma odpovedať na otázky:
 
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
 
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent si vyberie svoje top 3 projekty (mimo svoj projekt) a zhodnotí ho (kvalita/prevedenie/realizácia/splnenie požiadaviek). Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 bodov samozrejme v rámci povoleného počtu 60 bodov za projekt). Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme suťaže medzi jednotlivými tímami.** Každý študent si vyberie svoje top 3 projekty (mimo svoj projekt) a zhodnotí ho (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 bodov samozrejme v rámci povoleného počtu 60 bodov za projekt). Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
