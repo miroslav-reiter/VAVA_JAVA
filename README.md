@@ -77,7 +77,7 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať:
 2. Aplikácia by mala byť navrhnutá pre 3 rôznych používateľov/aktérov napr. admin, power/super user, používateľ (user)
 3. Dátové zložky musia byť zapúzdrené (všetky private)
 
-V projekte treba dodržovaž odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na príjemné používateľské rozhranie na jednej strane a na druhej na dobrý návrh a štruktúru
+V projekte treba dodržovať odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na **príjemné používateľské rozhranie** na jednej strane a na druhej na dobrý **návrh** a **štruktúru**.
 
 Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/moduly)** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu.
 
