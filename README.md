@@ -56,7 +56,7 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 Vytvoríte **tímy po 5 členoch**  
 V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí  
 
-A. **Projektový zámer** – 10 bodov – (do 5. cvičenia)  
+A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a kompetencií – 10 bodov – (do 5. cvičenia)  
 B. **Program**, **video prezentácia** a **dokumentácia vrátane UML/EA diagramov** – 60 bodov – (do 11/12. cvičenia)   
 
 #### 💡 Námety na projekty
