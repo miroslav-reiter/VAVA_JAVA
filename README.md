@@ -57,7 +57,14 @@ Vytvoríte **tímy o 5 členoch**
 V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí  
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
-B. **Program**, **video prezentácia** a **dokumentácia vrátane UML, EA diagramov** – 60 bodov – (do 11. cvičenia)   
+B. **Program**, **video prezentácia** a **dokumentácia vrátane UML, EA diagramov** – 60 bodov – (do 11. cvičenia)
+
+✔️ **Odovzdávané UML diagramy** v dokumentácii:
+1. prípadov použitia (use case)
+2. aktivít (activity)
+3. tried (class)
+4. balíčkov (package)
+5. sekvenčný (sequence)
 
 #### 💡 Námety na projekty
 1. [JDownloader v2](https://jdownloader.org/)
@@ -71,20 +78,19 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať:
 1. Lokalizácia (Preklady a lokalizácia ENG a SK)
 1. XML (Použitá 1 vybraná XML technológia, spracovanie/parsovanie XML dokumentov, import/export do XML, SAX, DOM, StAX, JAXB, XStream, Jackson XML, XPATH, XQUERY)
 1. Regulárne výrazy (Vyhľadávanie s prepínačmi, filtrovanie)
-1. JDBC (Pripojenie na vybranú databázu Derby, MySQL, PostgreSQL, SQLite, ukladanie dát do DB)
+1. JDBC (Pripojenie na vybranú databázu Derby/MySQL/PostgreSQL/SQLite/Oracle Database, ukladanie dát do DB)
 1. Ošetrenie/validácia vstupov + bezpečnosť (Ochrana voči základným SQL injekciám)
-1. GUI aplikácia (Swing, JavaFX, Vaadin) 
+1. GUI aplikácia (Swing, JavaFX, Vaadin), nie Android aplikácia 
 2. Aplikácia by mala byť navrhnutá pre 3 rôznych používateľov/aktérov napr. admin, power/super user, používateľ (user)
 3. Dátové zložky musia byť zapúzdrené (všetky private)
 
 V projekte treba dodržovať odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na **príjemné používateľské rozhranie** na jednej strane a na druhej na dobrý **návrh** a **štruktúru**.
 
-Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/moduly)** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu. Rovnako každý tím nahrá všetky súbory do verejného repozitára na GitHub/Gitlab/Bitbucket, aby bol k dispozícii iným tímom v skupine na hodnotenie.
+Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/moduly)** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu. Rovnako každý tím nahrá všetky súbory do svojho verejného repozitára na GitHub/Gitlab/Bitbucket, aby bol k dispozícii iným tímom v skupine na hodnotenie.
 
 Ďalej tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. **Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video**. **Video musí byť verejne dostupné cez odkaz** v popise miesta odovzdania. V prípade nedostupnosti odkazu na video či nefukčnosti aplikácie sa projekt hodnotí 0 bodmi.
 
-Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy/nepadá/out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky.
-Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom.
+Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy, nepadá, out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky. Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom.
 
 Video ma odpovedať na otázky: 
 1. Ako funguje aplikácia? 
@@ -96,7 +102,7 @@ Video ma odpovedať na otázky:
 
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
 
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť priamo aj na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iné projekty v rámci svojej skupiny (kvalita/prevedenie/realizácia/splnenie požiadaviek) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iné projekty v rámci svojej skupiny (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
