@@ -57,7 +57,7 @@ Vytvoríte **tímy po 5 členoch**
 V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí  
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl, kompetencií – 10 bodov – (do 5. cvičenia)  
-B. **Program**, **video prezentácia** a **dokumentácia vrátane UML, EA diagramov** – 60 bodov – (do 11/12. cvičenia)   
+B. **Program**, **video prezentácia** a **dokumentácia vrátane UML, EA diagramov** – 60 bodov – (do 11. cvičenia)   
 
 #### 💡 Námety na projekty
 1. [JDownloader v2](https://jdownloader.org/)
