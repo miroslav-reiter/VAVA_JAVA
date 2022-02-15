@@ -67,7 +67,7 @@ V tíme je 1 vedúci, každá skupina si ho demokraticky zvolí alebo sa sám di
 1. [Plánovač Kurzov a Skúšok](https://home.pearsonvue.com/) vid. prílohy
 1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
 
-Vlastný projekt **musí obsahovať** veci z odprednášaných tém: 
+Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať: 
 1. Kolekcie (treba vybrať vhodné dátové štruktúry podľa povahy/architektúry projektu)
 1. Logovanie (Logovanie biznis logiky aplikácie + Logovanie Exceptions/Errors)
 1. Lokalizácia (Preklady a lokalizácia ENG a SK)
@@ -77,8 +77,8 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém:
 1. Ošetrenie/validácia vstupov + bezpečnosť (Ochrana voči základným SQL injekciám)
 1. GUI aplikácia (Swing, JavaFX, Vaadin) 
 2. Aplikácia by mala byť navrhnutá pre 3 rôznych používateľov/aktérov napr. admin, power/super user, používateľ (user)
-3. Dátové zložky musia byť zapúzdrené (všetky private). 
-4. Využite objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY).
+3. Dátové zložky musia byť zapúzdrené (všetky private)
+4. Využite objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY)
 5. Myslite na príjemné používateľské rozhranie na jednej strane a na druhej na dobrý návrh a štruktúru
 
 Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice)** v miestach odovzdania AIS.
