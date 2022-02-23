@@ -24,7 +24,7 @@
 **E. Počty deliteľov** (daľší člen vznikne tak, že k aktuálnemu členu pripočítate počet jeho deliteľov)  
 1, 2, 4, 7, 9, 12, 18, 24, 32, 38, 42, 50, 56, 64, 71, 73, 75, 81, ...
 
-**F. Catalanove čísla**   
+**F. Catalanove čísla** (C(n) = binomial(2n,n)/(n+1) = (2n)!/(n!(n+1)!))  
 1, 2, 5, 14, 42, 132, 429, ...
 
 **G. Golombova postupnosť** (seba-popisujúca, neklesajúca rada kladných čísel, ktorej n-ty člen rady udáva, koľkokrát sa opakuje číslo n)  
@@ -33,5 +33,6 @@
 **H. Perrinove čísla** (P(n) = P(n − 2) + P(n − 3) for n > 2)   
 3, 0, 2, 3, 2, 5, 5, 7, 10, 12, 17, 22, 29, 39, ...
 
-**Tip:**
-(OEIS Katalóg celočíselných postupností)(https://oeis.org)
+**Tipy:**
+1. [OEIS Katalóg celočíselných postupností](https://oeis.org)  
+1. [David Wells - Numbers Revised Edition](https://www.amazon.com/Penguin-Book-Curious-Interesting-Numbers/dp/0140261494)  
