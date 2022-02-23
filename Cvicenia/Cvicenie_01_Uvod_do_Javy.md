@@ -1,4 +1,4 @@
-# Cvičenie Úvod do Javy
+# Cvičenie 01 - Úvod do Javy
 
 1. Konfigurácia a nastavenie IDE  
 1. Nastavenie SDK/JDK platformy  
