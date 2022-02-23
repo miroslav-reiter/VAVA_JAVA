@@ -1,4 +1,4 @@
-# Cvičenie 01 - Úvod do Javy
+# 💪 Cvičenie 01 - Úvod do Javy
 
 1. Konfigurácia a nastavenie IDE  
 1. Nastavenie SDK/JDK platformy  
@@ -33,6 +33,6 @@
 **H. Perrinove čísla** (P(n) = P(n − 2) + P(n − 3) for n > 2)   
 3, 0, 2, 3, 2, 5, 5, 7, 10, 12, 17, 22, 29, 39, ...
 
-**Tipy, nástroje a zaujímavosti:**
+**📰 Tipy, nástroje a zaujímavosti:**
 1. [Neil Sloane - OEIS Katalóg celočíselných postupností](https://oeis.org)  
 1. [David Wells - Numbers Revised Edition](https://www.amazon.com/Penguin-Book-Curious-Interesting-Numbers/dp/0140261494)  
