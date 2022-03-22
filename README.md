@@ -59,7 +59,7 @@ V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sá
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
 B. **Program**, **video prezentácia** a **dokumentácia vrátane UML, EA diagramov** – 60 bodov – (do 11. cvičenia)
 
-✔️ **Odovzdávané UML diagramy** v dokumentácii:
+✔️ **Odovzdávané UML diagramy**(core funkcionality a triedy v projekte) v dokumentácii:
 1. prípadov použitia (use case)
 2. aktivít (activity)
 3. tried (class)
