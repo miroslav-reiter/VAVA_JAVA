@@ -73,16 +73,16 @@ B. **Program**, **video prezentácia** a **dokumentácia vrátane UML, EA diagra
 1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
 
 Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať: 
-1. Kolekcie (treba vybrať vhodné dátové štruktúry podľa povahy/architektúry projektu)
-1. Logovanie (Logovanie biznis logiky aplikácie + Logovanie Exceptions/Errors)
-1. Lokalizácia (Preklady a lokalizácia ENG a SK)
-1. XML (Použitá 1 vybraná XML technológia, spracovanie/parsovanie XML dokumentov, import/export do XML, SAX, DOM, StAX, JAXB, XStream, Jackson XML, XPATH, XQUERY)
-1. Regulárne výrazy (Vyhľadávanie s prepínačmi, filtrovanie)
-1. JDBC (Pripojenie na vybranú databázu [Derby](https://db.apache.org/derby/docs/10.4/devguide/cdevdvlp40653.html)/[MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) 
-1. Ošetrenie/validácia vstupov + bezpečnosť (Ochrana voči základným SQL injekciám)
-1. GUI aplikácia (Swing, JavaFX, Vaadin), nie Android aplikácia 
-2. Aplikácia by mala byť navrhnutá pre 3 rôznych používateľov/aktérov napr. admin, power/super user, používateľ (user)
-3. Dátové zložky musia byť zapúzdrené (všetky private)
+1. **Kolekcie** (treba vybrať **vhodné dátové štruktúry** podľa povahy/architektúry projektu)
+1. **Logovanie** (Logovanie biznis logiky aplikácie + Logovanie Exceptions/Errors)
+1. **Lokalizácia** (Preklady a lokalizácia ENG a SK)
+1. **XML** (Použitá 1 vybraná XML technológia, spracovanie/parsovanie XML dokumentov, import/export do XML, SAX, DOM, StAX, JAXB, XStream, Jackson XML, XPATH, XQUERY)
+1. **Regulárne výrazy** (Vyhľadávanie s prepínačmi, filtrovanie)
+1. **JDBC** (Pripojenie na vybranú databázu [Derby](https://db.apache.org/derby/docs/10.4/devguide/cdevdvlp40653.html)/[MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) 
+1. **Ošetrenie/validácia vstupov **+ bezpečnosť (Ochrana voči základným SQL injekciám)
+1. **GUI** aplikácia (Swing, JavaFX, Vaadin), nie Android aplikácia 
+2. Aplikácia by mala byť navrhnutá pre 3** rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
+3. Dátové zložky musia byť **zapúzdrené** (všetky private)
 
 V projekte treba dodržovať odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na **príjemné používateľské rozhranie** na jednej strane a na druhej na dobrý **návrh** a **štruktúru**.
 
