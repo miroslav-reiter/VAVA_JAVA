@@ -102,7 +102,7 @@ Video ma odpovedať na otázky:
 
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
 
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iné projekty v rámci svojej skupiny (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejšie tímy a projekty získajú od Google malé darčeky/Swag.  
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iné projekty v rámci svojej skupiny (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejšie tímy a projekty môžu získať od Google malé darčeky/Swag.  
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
