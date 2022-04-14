@@ -22,7 +22,7 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 1. Kolekcie
 1. Logovanie
 1. Lokalizácia
-1. XML, IO
+1. XML, NIO2
 1. Regulárne výrazy
 1. Modularita
 1. JDBC
