@@ -12,7 +12,7 @@ User: postgres
 Heslo: vase(PostgreSQL installer)
 JDBC driver: https://jdbc.postgresql.org/download.html
 
-🎩 Apache Derby
+# 🎩 Apache Derby
 Inštalátor: https://db.apache.org/derby/derby_downloads.html
 
 # Oracle DB
