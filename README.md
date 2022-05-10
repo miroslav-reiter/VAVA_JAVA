@@ -64,6 +64,8 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 
 Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo nečestné konanie bude mať za následok vylúčenie zo skúšky a hodnotenie študenta známkou FX.
 
+Pre absolvovanie skúšky nie je stanovený minimálny počet bodov.
+
 ### ❓ FAQ ku skúške  
 
 **Z čoho bude skúška?**  
