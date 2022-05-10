@@ -53,14 +53,14 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 
 ## 🏆 Skúška
 
-* Bude realizovaná prezenčne v priestoroch školy (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15)
+* Bude realizovaná **prezenčne** v **priestoroch** **školy** (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15)
 * Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
 * Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
 
 Študenti budú rozdelený na skúške na 2 skupiny rovnako ako tomu bolo na cvičeniach.
-1. skupina začne 10:30-35
-2. skupina začne 11:00-05 (študenti 2. skupiny môžu teda prísť o polhodinu neskôr)
+1. skupina začne 10:30/35
+2. skupina začne 11:00/05 (**študenti 2. skupiny môžu teda prísť o polhodinu neskôr**)
 
 Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo nečestné konanie bude mať za následok vylúčenie zo skúšky a hodnotenie študenta známkou FX.
 
