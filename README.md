@@ -51,6 +51,39 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 * **70 %** formou **tímovej práce** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a JEE 
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 11 Developer 1Z0-819**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-819**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
+## 🏆 Skúška
+
+* Bude realizovaná prezenčne v priestoroch školy (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15)
+* Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
+* Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
+* Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
+
+Študenti budú rozdelený na skúške na 2 skupiny rovnako ako tomu bolo na cvičeniach.
+1. skupina začne 10:30-35
+2. skupina začne 11:00-05 (študenti 2. skupiny môžu teda prísť o polhodinu neskôr)
+
+Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo nečestné konanie bude mať za následok vylúčenie zo skúšky a hodnotenie študenta známkou FX.
+
+### ❓ FAQ ku skúške  
+
+**Z čoho bude skúška?**  
+Z odprednášaných tém zameraných hlavne na Javu vid. nižšie.
+1. OOP Java
+2. Kolekcie
+3. Lokalizácia/Logovanie
+4. Modularita
+5. NIO.2
+6. JDBC
+7. Bezpečnosť
+
+Obsahom skúšky nebude modelovanie, Enterprise Architektúra, ArchiMate.
+
+**Z čoho sa máme učiť?**  
+Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú videozáznamy z prednášok. Odporúčam si prejsť testíky, ktoré sa robili na cvičeniach a zdroje k certifikačnej skúške Oracle Java SE 11 Developer 1Z0-819.
+
+**Môžeme používať vlastný PC, notebook, zariadenie?**  
+Nie, budú sa používať zariadenia/počítače školy.
+
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 70 bodov
 Vytvoríte **tímy o 5 členoch**  
