@@ -59,8 +59,8 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
 
 Študenti budú rozdelený na skúške na 2 skupiny rovnako ako tomu bolo na cvičeniach.
-1. skupina (študenti, ktorí chodili na cvičenia na 17:00-18:30) začne 10:30/35
-2. skupina (študenti, ktorí chodili na cvičenia na 19:00-20:30) začne 11:00/05 (**študenti 2. skupiny môžu teda prísť o polhodinu neskôr**)
+1. skupina (študenti, ktorí chodili na cvičenia na 17:00-18:30) **začne 10:30/35**
+2. skupina (študenti, ktorí chodili na cvičenia na 19:00-20:30) **začne 11:00/05** (**študenti 2. skupiny môžu teda prísť o polhodinu neskôr**)
 
 Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo nečestné konanie bude mať za následok vylúčenie zo skúšky a hodnotenie študenta známkou FX.
 
