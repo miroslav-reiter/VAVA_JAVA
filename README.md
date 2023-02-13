@@ -75,10 +75,8 @@ Z odprednášaných tém zameraných hlavne na Javu 80 % vid. nižšie a 20 % za
 6. JDBC
 
 
-Obsahom skúšky nebude modelovanie, Enterprise Architektúra, ArchiMate.
-
 **Z čoho sa máme učiť?**  
-Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú videozáznamy z prednášok. Odporúčam si prejsť testíky, ktoré sa robili na cvičeniach a zdroje k certifikačnej skúške Oracle Java SE 11 Developer 1Z0-819.
+Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú videozáznamy z prednášok. Odporúčam si prejsť testíky, ktoré sa robili na cvičeniach a zdroje k certifikačnej skúške Oracle Java SE 17 Developer 1Z0-829.
 
 **Môžeme používať vlastný PC, notebook, zariadenie?**  
 Nie, budú sa používať zariadenia/počítače školy.
@@ -89,14 +87,15 @@ Vytvoríte **tímy o 5 členoch**
 V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí  
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
-B. **Program**, **video prezentácia** a **dokumentácia vrátane UML, EA diagramov** – 60 bodov – (do 11. cvičenia)
+B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class a package diagram), EA ArchiMate diagramov** – 60 bodov – (do 11. cvičenia)
 
 ✔️ **Odovzdávané UML diagramy** (core funkcionalita a triedy v projekte) v dokumentácii:
-1. prípadov použitia (use case)
-2. aktivít (activity)
-3. tried (class)
-4. balíčkov (package)
-5. sekvenčný (sequence)
+1. tried (class)
+2. balíčkov (package)
+
+✔️ **Odovzdávané ArchiMate diagramy** (core funkcionalita) v dokumentácii:
+1. biznis, produktový
+2. vrstvový model
 
 #### 💡 Námety na projekty
 1. [JDownloader v2](https://jdownloader.org/)
