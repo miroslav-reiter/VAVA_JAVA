@@ -4,11 +4,11 @@
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
 * Kontakt: riaditel@it-academy.sk
 * Verzia Javy/JDK: Java SE JDK 17
-* Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.02.03)
+* Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.02.03)  
 
 ## Organizácia predmetu
-**Prednášky**: Každý piatok 12:00-13:50 
-**Cvičenia**: Každý piatok 14:00-15:50 **formou konzultácii**
+**Prednášky**: Každý piatok 12:00-13:50   
+**Cvičenia**: Každý piatok 14:00-15:50 **formou konzultácii**  
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy
@@ -112,7 +112,7 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať:
 1. **Regulárne výrazy** (Vyhľadávanie s prepínačmi, filtrovanie)
 1. **JDBC** (Pripojenie na vybranú databázu [Derby](https://db.apache.org/derby/docs/10.4/devguide/cdevdvlp40653.html)/[MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) 
 1. **Ošetrenie/validácia vstupov** + bezpečnosť (Ochrana voči základným SQL injekciám)
-1. **GUI** aplikácia (Swing, JavaFX, Vaadin), nie Android aplikácia 
+1. **GUI** aplikácia (Swing, JavaFX, Vaadin), nie Android aplikácia, nie Spring a Spring boot aplikácia 
 2. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
 3. **Dátové zložky** musia byť **zapúzdrené** (všetky private)
 
@@ -141,16 +141,15 @@ Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnot
 1. BLOCH, J. Effective Java. Boston: Addison - Wesley, 2nd edition, 2008. ISBN 03-213-566-8-3
 1. NAFTALIN, M. -- WADLER, P. Java Generics and Collections. Sebastopol, USA: O'Reilly Media, 1st edition, 2006. 286 s. ISBN 05-965-277-5-6
 1. GAMMA, E. -- HELM, R. -- JOHNSON, R. -- VLISSIDES, J. Design Patterns. Elements of Reusable Object-Oriented Software. Boston : Addison Wesley, 1994. 395 s. ISBN 0-201-63361-2
-1. SIERA, K. Head First Java. O'Reilly. 2005. 688 s. ISBN 9780596009205
-1. FREEMAN, E. Head First Design Patterns. O'Reilly.  2020. 672 s. ISBN 9781492078005
+1. SIERA, K. Head First Java. O'Reilly. 3nd Edition. 2020. 688 s. ISBN 9780596009205
+1. FREEMAN, E. Head First Design Patterns. 2nd Edition. O'Reilly. 2020. 672 s. ISBN 9781492078005
 
 ### 💼 Príprava na skúšku, certifikačnú skúšku OCP:
-1. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide. 2020. John Wiley. 1032 s. ISBN 1119619130
-2. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 11 Developer Practice Tests. John Wiley. 2021. 608 s. ISBN 1119696135
-3. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809. Sybex
-4. Oracle Certified Professional, Java SE 11 Developer Certification Overview https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
+1. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 17 Developer Complete Study Guide. 2022. John Wiley. 1110 s. ISBN 978-1-119-86458-5
+2. BOAYRSKY, J. OCP Oracle Certified Professional Java SE 17 Developer Practice Tests. John Wiley. 2022. 780s. ISBN 978-1-119-86461-5
+3. Oracle Certified Professional, Java SE 17 Developer Certification Overview https://education.oracle.com/java-se-17-developer/pexam_1Z0-829
 
 ### 🌐 Elektronické zdroje:
-1. Oracle Java Dokumentácia: Java Platform, Standard Edition 11 API Specification, 2021, https://docs.oracle.com/en/java/javase/11/docs/api/
-1. Oracle Blog java https://blogs.oracle.com/java/
-1. Dzone Java Spotlight https://dzone.com/java-jdk-development-tutorials-tools-news
+1. [Oracle Java Dokumentácia: Java Platform, Standard Edition 11 API Specification, 2022](https://docs.oracle.com/en/java/javase/17/docs/api/)
+1. [Oracle Blog java](https://blogs.oracle.com/java/)
+1. [Dzone Java Spotlight](https://dzone.com/java-jdk-development-tutorials-tools-news)
