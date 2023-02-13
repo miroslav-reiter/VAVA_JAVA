@@ -4,25 +4,25 @@
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
 * Kontakt: riaditel@it-academy.sk
 * Verzia Javy/JDK: Java SE JDK 17
-* Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.02.03)  
+* Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.3.2 Ultimate)  
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
 **Cvičenia**: Každý piatok 14:00-15:50 **formou konzultácii**  
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
-1. Úvod do Javy
-1. Štruktúra platformy
-1. Vývojové technológie
-1. Kolekcie
-1. Logovanie
+1. Úvod do Javy a jazyka ArchiMate
+1. Štruktúra platformy a enteprise architektúry
+1. Vývojové technológie + (biznis vrstva)
+1. Kolekcie + (aplikačná vrstva)
+1. Logovanie 
 1. Lokalizácia
 1. XML, NIO2
-1. Regulárne výrazy
-1. Modularita
-1. JDBC
-1. Bezpečnosť
-1. Prehľad JEE a .NET
+2. JDBC a DBMS
+3. Regulárne výrazy
+5. Prehľad enterprise architektúr
+6. Rámec TOGAF
+7. Prehľad JEE a .NET
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
