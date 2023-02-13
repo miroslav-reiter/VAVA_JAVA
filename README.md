@@ -45,11 +45,11 @@
 
 ## 🥇 Podmienky na absolvovanie predmetu
 * **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS 
-* **20 %** formou **tímovej práce - 3 členovia** v podobe **code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení
+* **20 %** formou **tímovej práce - 3 členovia** v podobe **code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení - témy sa budú losovať
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## 🏆 Skúška
-* Bude realizovaná **prezenčne** v **priestoroch** **školy** (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15 -> čas sa určí v roku 2023)
+* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15 -> čas sa určí v roku 2023)
 * Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
 * Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
@@ -59,9 +59,8 @@ Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo
 Pre absolvovanie skúšky nie je stanovený minimálny počet bodov.
 
 ### ❓ FAQ ku skúške  
-
 **Z čoho bude skúška?**  
-Z odprednášaných tém zameraných hlavne na Javu 80 % (cca 24 otázok) vid. nižšie a 20 % (6 otázok) zameraných na enterprise architektúru a jazyk ArchiMate
+Z odprednášaných tém zameraných hlavne na Javu 80 % (cca 12 otázok) vid. nižšie a 20 % (3 otázky) zameraných na enterprise architektúru a jazyk ArchiMate
 1. OOP Java
 2. Kolekcie
 3. Lokalizácia
@@ -70,7 +69,7 @@ Z odprednášaných tém zameraných hlavne na Javu 80 % (cca 24 otázok) vid. n
 6. JDBC
 
 **Z čoho sa máme učiť?**  
-Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú videozáznamy z prednášok. Odporúčam si prejsť testíky, ktoré sa robili na cvičeniach a zdroje k certifikačnej skúške Oracle Java SE 17 Developer 1Z0-829.
+Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú videozáznamy z prednášok. Odporúčam si prejsť testíky, ktoré sa robili na cvičeniach a zdroje k certifikačnej skúške Oracle Java SE 17 Developer 1Z0-829 + ArchiMate a Enterprise Architektúru.
 
 **Môžeme používať vlastný PC, notebook, zariadenie?**  
 Nie, budú sa používať zariadenia/počítače školy.
@@ -78,18 +77,19 @@ Nie, budú sa používať zariadenia/počítače školy.
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 70 bodov
 Vytvoríte **tímy o 5 členoch**  
-V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tým ma IT architekta, SW testera a programátorov. 
+V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, SW testera a programátorov. 
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
-B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class a package diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia)
+B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia)
 
 ✔️ **Odovzdávané UML diagramy** (core funkcionalita a triedy v projekte) v dokumentácii:
-1. tried (class)
-2. balíčkov (package)
+* tried (class)
 
 ✔️ **Odovzdávané ArchiMate diagramy** (core funkcionalita) v dokumentácii:
-1. biznis, produktový
-2. vrstvový model
+1. biznis vrstva (organizačné hľadisko, Hľadisko na spoluprácu medzi podnikovými procesmi, Produktové hľadisko)
+2. aplikačná vrstva (Hľadisko spolupráce aplikácií) <--> balíčky (packages)
+3. technologická vrstva (Technologické hľadisko)
+4. Vrstvový model (Vrstvené hľadisko)
 
 #### 💡 Námety na projekty
 1. [JDownloader v2](https://jdownloader.org/)
@@ -111,7 +111,7 @@ Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať:
 
 V projekte treba dodržovať odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na **príjemné používateľské rozhranie** na jednej strane a na druhej na dobrý **návrh** a **štruktúru**.
 
-Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/moduly)** a **dokumentáciou** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu. Rovnako každý tím nahrá všetky súbory do svojho verejného repozitára na GitHub/Gitlab/Bitbucket, aby bol k dispozícii iným tímom v skupine na hodnotenie. Projektové zadanie aj výsledný projekt a jeho projektovú dokumentáciu odovzdávate ako 1 samostatný PDF dokument, v ktorom je všetko, nie porozdelované po súboroch.
+Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/y)** a **dokumentáciou** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu. Rovnako každý tím nahrá všetky súbory do svojho verejného repozitára na GitHub/Gitlab/Bitbucket, aby bol k dispozícii iným tímom v skupine na hodnotenie. Projektové zadanie aj výsledný projekt a jeho projektovú dokumentáciu odovzdávate ako 1 samostatný PDF dokument, v ktorom je všetko, nie porozdelované po súboroch.
 
 Ďalej tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. **Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video**. **Video musí byť verejne dostupné cez odkaz** v popise miesta odovzdania. V prípade nedostupnosti odkazu na video či nefunkčnosti aplikácie sa projekt hodnotí 0 bodmi.
 
