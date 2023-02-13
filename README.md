@@ -61,7 +61,7 @@ Pre absolvovanie skúšky nie je stanovený minimálny počet bodov.
 ### ❓ FAQ ku skúške  
 
 **Z čoho bude skúška?**  
-Z odprednášaných tém zameraných hlavne na Javu 80 % vid. nižšie a 20 % zameraných na enterprise architektúru a jazyk ArchiMate
+Z odprednášaných tém zameraných hlavne na Javu 80 % (cca 24 otázok) vid. nižšie a 20 % (6 otázok) zameraných na enterprise architektúru a jazyk ArchiMate
 1. OOP Java
 2. Kolekcie
 3. Lokalizácia
