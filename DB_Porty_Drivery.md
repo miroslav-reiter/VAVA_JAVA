@@ -14,9 +14,13 @@ JDBC driver: https://jdbc.postgresql.org/download.html
 
 # 🎩 Apache Derby  
 Inštalátor: https://db.apache.org/derby/derby_downloads.html  
+Port: 1527
 
 # Oracle DB  
-Inštalátor: https://www.oracle.com/database/technologies/appdev/xe.html  
+Inštalátor: https://www.oracle.com/database/technologies/appdev/xe.html
+Port: 1521
+SID: xe
 
 # SQLite  
 Inštalátor: https://www.sqlite.org/download.html  
+Port: Nepoužíva porty
