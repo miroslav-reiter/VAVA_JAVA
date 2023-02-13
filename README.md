@@ -125,9 +125,9 @@ Video ma odpovedať na otázky:
 5. Čo ste sa pri tom naučili? 
 6. Čo vám robilo problémy (vrásky na tvári)? Ako ste sa s tým vysporiadali?
 
-Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný.
+Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný. Video slúži ako vaša príprava na prezenčnú obhajobu projektu.
 
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iné projekty v rámci svojej skupiny (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejšie tímy a projekty môžu získať od Google malé darčeky/Swag.  
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Každý študent hodnotí aj iné projekty v rámci svojej skupiny (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 60 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejší tím a projekt môžu získať od Google malé darčeky/Swag. Nefunkčná, padajúca aplikácia alebo aplikácia obsahujúca zjavné chyby alebo chyby, ktoré spôsobujú pád celej aplikácie sa automaticky hodnotia 0 bodmi alebo minimálnym počtom bodov.   
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
