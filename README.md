@@ -97,7 +97,7 @@ B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class dia
 1. [Plánovač Kurzov a Skúšok](https://home.pearsonvue.com/) vid. prílohy
 1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
 
-Vlastný projekt **musí obsahovať** veci z odprednášaných tém a mať: 
+Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať: 
 1. **Kolekcie** (treba vybrať **vhodné dátové štruktúry** podľa povahy/architektúry projektu)
 1. **Logovanie** (Logovanie biznis logiky aplikácie + Logovanie Exceptions/Errors)
 1. **Lokalizácia** (Preklady a lokalizácia ENG a SK)
