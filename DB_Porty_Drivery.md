@@ -9,18 +9,18 @@ JDBC driver: https://dev.mysql.com/downloads/connector/j/
 Inštalátor: https://www.postgresql.org/download/windows/  
 Porty: 5432  
 User: postgres  
-Heslo: vase(PostgreSQL installer)  
-JDBC driver: https://jdbc.postgresql.org/download.html  
+Heslo: vase(PostgreSQL installer)   
+JDBC driver: https://jdbc.postgresql.org/download.html   
 
 # 🎩 Apache Derby  
 Inštalátor: https://db.apache.org/derby/derby_downloads.html  
-Port: 1527
+Port: 1527  
 
 # Oracle DB  
-Inštalátor: https://www.oracle.com/database/technologies/appdev/xe.html
-Port: 1521
-SID: xe
+Inštalátor: https://www.oracle.com/database/technologies/appdev/xe.html  
+Port: 1521  
+SID: xe  
 
 # SQLite  
-Inštalátor: https://www.sqlite.org/download.html  
-Port: Nepoužíva porty
+Inštalátor: https://www.sqlite.org/download.html   
+Port: Nepoužíva porty  
