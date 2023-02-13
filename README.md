@@ -17,12 +17,12 @@
 1. Kolekcie + (aplikačná vrstva)
 1. Logovanie 
 1. Lokalizácia
+1. JDBC a DBMS + (technologická vrstva)
 1. XML, NIO2
-2. JDBC a DBMS
-3. Regulárne výrazy
-5. Prehľad enterprise architektúr
-6. Rámec TOGAF
-7. Prehľad JEE a .NET
+1. Regulárne výrazy + (implementačná a migračná vrstva)
+1. Prehľad enterprise architektúr
+1. Rámec TOGAF a ADM
+1. Prehľad JEE a .NET
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
@@ -45,19 +45,14 @@
 
 ## 🥇 Podmienky na absolvovanie predmetu
 * **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS 
-* **20 %** formou **tímovej práce - 3 členovia** v podobe **code session**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS 
+* **20 %** formou **tímovej práce - 3 členovia** v podobe **code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične natočené odprezentované video), scenár, praktické príklady s názornými ukážkami a zdrojovými kódmi, odprezentovanie na cvičení
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## 🏆 Skúška
-
-* Bude realizovaná **prezenčne** v **priestoroch** **školy** (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15)
+* Bude realizovaná **prezenčne** v **priestoroch** **školy** (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15 -> čas sa určí v roku 2023)
 * Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
 * Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
-
-Študenti budú rozdelený na skúške na 2 skupiny rovnako ako tomu bolo na cvičeniach.
-1. skupina (študenti, ktorí chodili na cvičenia na 17:00-18:30) **začne 10:30/35**
-2. skupina (študenti, ktorí chodili na cvičenia na 19:00-20:30) **začne 11:00/05** (**študenti 2. skupiny môžu teda prísť o polhodinu neskôr**)
 
 Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo nečestné konanie bude mať za následok vylúčenie zo skúšky a hodnotenie študenta známkou FX.
 
@@ -74,7 +69,6 @@ Z odprednášaných tém zameraných hlavne na Javu 80 % vid. nižšie a 20 % za
 5. NIO.2
 6. JDBC
 
-
 **Z čoho sa máme učiť?**  
 Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú videozáznamy z prednášok. Odporúčam si prejsť testíky, ktoré sa robili na cvičeniach a zdroje k certifikačnej skúške Oracle Java SE 17 Developer 1Z0-829.
 
@@ -84,10 +78,10 @@ Nie, budú sa používať zariadenia/počítače školy.
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 70 bodov
 Vytvoríte **tímy o 5 členoch**  
-V tíme je **1 vedúci**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí  
+V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tým ma IT architekta, SW testera a programátorov. 
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
-B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class a package diagram), EA ArchiMate diagramov** – 60 bodov – (do 11. cvičenia)
+B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class a package diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia)
 
 ✔️ **Odovzdávané UML diagramy** (core funkcionalita a triedy v projekte) v dokumentácii:
 1. tried (class)
