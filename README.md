@@ -1,19 +1,14 @@
 # ☕ VAVA-JAVA
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
-* Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT 2022
+* Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT 2023
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
 * Kontakt: riaditel@it-academy.sk
-* Komunikácia: Skype
-* Verzia Javy/JDK: Java SE JDK 11
-* Preferované IDE: Netbeans 12 (alebo podľa preferencií Eclipse/IntelliJ IDEA)
+* Verzia Javy/JDK: Java SE JDK 17
+* Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.02.03)
 
 ## Organizácia predmetu
-**Prednášky**: Každý štvrtok 18:00-19:40  
-**Cvičenia**: Každý utorok **formou konzultácii**
-1. skupina od 17:00
-2. skupina od 19:00
-
-Osobitné **konzultácie**: **Piatok 13:00-14:00**
+**Prednášky**: Každý piatok 12:00-13:50 
+**Cvičenia**: Každý piatok 14:00-15:50 **formou konzultácii**
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy
@@ -35,21 +30,23 @@ Osobitné **konzultácie**: **Piatok 13:00-14:00**
 * Naučiť sa tvoriť desktopové GUI aplikácie vo SWING/JavaFX
 * Nadobudnúť zručnosti vo využívaní vybraných rozhraní a rozširujúcich knižníc platformy Java (Standard Edition)
 * Pripraviť sa na neskorší vývoj rozsiahlych viacvrstvových enterprise aplikácií
+* Používať jazyk ArchiMate a rámec TOGAF pri modelovaní viacvrstvových aplikácií
 * Zasadenie Java v kontexte JEE a .NET technológií
 
 ## Stručná osnova predmetu:
 1. Štruktúra platformy Java
 2. Java vývojové technológie a štandardy
 3. Vybrané kapitoly/detaily Java Standard Edition API (napr. Collections, Logging, Localization, XML, I/O, Regular Expressions)
-4. Modularita, JDBC, Bezpečnosť
+4. Databázy, JDBC, jazyk SQL v Jave
 5. Prehľad JEE a .NET technológií
 
 ## ☕ YouTube video záznamy z prednášok a cvičení Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=0aV5g2rQCl8&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24)
 
 ## 🥇 Podmienky na absolvovanie predmetu
-* **70 %** formou **tímovej práce** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a JEE 
-* **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 11 Developer 1Z0-819**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-819**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
+* **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS 
+* **20 %** formou **tímovej práce - 3 členovia** v podobe **code session**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS 
+* **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## 🏆 Skúška
 
@@ -69,14 +66,14 @@ Pre absolvovanie skúšky nie je stanovený minimálny počet bodov.
 ### ❓ FAQ ku skúške  
 
 **Z čoho bude skúška?**  
-Z odprednášaných tém zameraných hlavne na Javu vid. nižšie.
+Z odprednášaných tém zameraných hlavne na Javu 80 % vid. nižšie a 20 % zameraných na enterprise architektúru a jazyk ArchiMate
 1. OOP Java
 2. Kolekcie
-3. Lokalizácia/Logovanie
-4. Modularita
+3. Lokalizácia
+4. Logovanie
 5. NIO.2
 6. JDBC
-7. Bezpečnosť
+
 
 Obsahom skúšky nebude modelovanie, Enterprise Architektúra, ArchiMate.
 
