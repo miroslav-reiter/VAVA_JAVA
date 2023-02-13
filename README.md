@@ -1,4 +1,4 @@
-# ☕ VAVA-JAVA-EA
+# ☕ VAVA-JAVA
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
 * Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT 2023
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
