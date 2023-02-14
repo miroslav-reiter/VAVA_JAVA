@@ -127,7 +127,7 @@ Video ma odpovedať na otázky:
 
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný. Video slúži ako vaša príprava na prezenčnú obhajobu projektu.
 
-### Hodnotenie a hodnotiaci kľúč
+### 🏅 Hodnotenie a hodnotiaci kľúč
 Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Hodnotí sa systémom peer review s vedúcim, ktorý je vyučujúci a má záverečné slovo pri prideľovanám bodov. Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém vid. zoznam 10 požiadaviek vyššie. Každý študent hodnotí aj iné projekty v rámci cvičenia (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 40 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Najúspešnejší tím a projekt môže získať od Google malé darčeky/Swag. Nefunkčná, padajúca aplikácia alebo aplikácia obsahujúca zjavné chyby alebo chyby, ktoré spôsobujú pád celej aplikácie sa automaticky hodnotia 0 bodmi alebo minimálnym počtom bodov.   
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
