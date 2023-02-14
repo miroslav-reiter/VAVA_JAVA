@@ -44,7 +44,7 @@
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=0aV5g2rQCl8&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24)
 
 ## 🥇 Podmienky na absolvovanie predmetu
-* **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS 
+* **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. 
 * **20 %** formou **tímovej práce - 3 členovia** v podobe **code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení - témy sa budú losovať
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
