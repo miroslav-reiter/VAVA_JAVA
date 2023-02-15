@@ -147,3 +147,4 @@ Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnot
 1. [Oracle Java Dokumentácia: Java Platform, Standard Edition 11 API Specification, 2022](https://docs.oracle.com/en/java/javase/17/docs/api/)
 1. [Oracle Blog java](https://blogs.oracle.com/java/)
 1. [Dzone Java Spotlight](https://dzone.com/java-jdk-development-tutorials-tools-news)
+1. [ArchiMate® 3.1 Specification, a Standard of The Open Group](https://pubs.opengroup.org/architecture/archimate3-doc/)
