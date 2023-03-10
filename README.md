@@ -6,6 +6,7 @@
 * Verzia Javy/JDK: Java SE JDK 17
 * Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.3.2 Ultimate)  
 * Zoznam tímov a projektov: https://docs.google.com/spreadsheets/d/1zmMtOBe7Ui875LpbUjd5LQSOYLN3qgvV/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
+* Zoznam tímov a LiveCodeSession: https://docs.google.com/spreadsheets/d/1BW48BaVr8fEDfhD-jCbcbvrjXzHVNDGG/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
