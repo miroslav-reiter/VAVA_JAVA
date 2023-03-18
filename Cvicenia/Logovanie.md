@@ -1,4 +1,4 @@
-# 📟 Čo treba logovať/čo je vhodné logovať?
+# 📟 Čo treba Logovať/čo je vhodné Logovať?
 1.	Udalosti typu Autentifikácia/Prihlasovanie 
 2.	Udalosti Riadenia prístupu
 3.	Udalosti typu Upload súborov a dát
@@ -11,6 +11,34 @@
 10.	Chyby manažovania relácií (Sessions)
 11.	Systémové udalosti
 12.	Manažovanie používateľov
+
+## Logovacie Úrovne (logging Levels)
+OFF - Nnajvyššia možnú úroveň a je určený na vypnutie logovania
+FATAL - Veľmi závažné chybové udalosti, ktoré pravdepodobne povedú k prerušeniu aplikácie
+ERROR - Chybové udalosti, ktoré môžu aplikácii naďalej umožniť bežať
+WARN -  Potenciálne škodlivé situácie
+INFO - Informačné správy, ktoré zvýrazňujú priebeh aplikácie na vysoko granulárnej úrovni
+DEBUG - Informačné udalosti s drobnou granularitou, ktoré sú najužitočnejšie na ladenie aplikácie
+TRACE - Označuje jemnejšie informačné udalosti ako DEBUG
+ALL - Najnižšia možnú úroveň a je určený na zapnutie všetkých protokolov
+
+![logss](https://user-images.githubusercontent.com/24510943/226104456-27c5969e-4841-4802-9bec-122f72869d61.png)
+
+![BOUAq](https://user-images.githubusercontent.com/24510943/226104471-97ce6bcf-67a2-4bb5-bdb1-cec67b2da154.png)
+
+```java
+// Log4j API Level Class
+public final static int OFF_INT = Integer.MAX_VALUE;
+public final static int FATAL_INT = 50000;
+public final static int ERROR_INT = 40000;
+public final static int WARN_INT  = 30000;
+public final static int INFO_INT  = 20000;
+public final static int DEBUG_INT = 10000;
+public static final int TRACE_INT = 5000; 
+public final static int ALL_INT = Integer.MIN_VALUE; 
+```
+
+https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/Level.html
 
 ## 📕 Zdroje a inšpirácia 
 A. [Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)  
