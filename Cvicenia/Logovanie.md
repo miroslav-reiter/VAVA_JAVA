@@ -23,7 +23,7 @@
 **7. TRACE** - Označuje jemnejšie informačné udalosti ako DEBUG. Zaznamenáva všetky správy, ktoré zachytávajú typický tok cez aplikáciu. Táto úroveň zahŕňa správy ladenia, informácií, varovania, chýb a závažných správ. Zaznamenáva všetky správy (rovnako ako Trace).  
 **8. ALL** - Najnižšia možnú úroveň a je určený na zapnutie všetkých protokolov.  
 
-![BOUAq](https://user-images.githubusercontent.com/24510943/226104471-97ce6bcf-67a2-4bb5-bdb1-cec67b2da154.png)
+![atd49gel95khv4dyt7kn](https://user-images.githubusercontent.com/24510943/226108439-e9867e2f-3f31-46c6-aff9-cd0cddfce560.png)
 
 ```java
 // Log4j API Level Class
@@ -35,6 +35,19 @@ public final static int INFO_INT  = 20000;
 public final static int DEBUG_INT = 10000;
 public static final int TRACE_INT = 5000; 
 public final static int ALL_INT = Integer.MIN_VALUE; 
+```
+
+![BOUAq](https://user-images.githubusercontent.com/24510943/226104471-97ce6bcf-67a2-4bb5-bdb1-cec67b2da154.png)  
+
+### Príklady Logovania Úrovne Upozornenia (Log/Logger.Warn)
+```java
+log.warn("Používateľský účet na ABC je zakázaný službou XYZ. {}.", email);
+logger.warn("Ubehol časový limit čakania na dokončenie úloh úpravy.");
+log.warn("Duplicitný email/účet pre používateľa {}.", email);
+log.warn("Zlyhanie overenia správy pre {}.", email);
+log.warn("Nie je možné načítať manažéra požiadaviek medzi vláknami '{}' kvôli {}", clazz, e.toString());
+logger.warn("Súbor [Ext] sa nenašiel: " + cesta);
+logger.warn(String.format("Vyskytla sa výnimka pri vrátení transakcie s vypršaným časovým limitom %s", txId), e); 
 ```
 
 ## 📕 Zdroje a inšpirácia 
