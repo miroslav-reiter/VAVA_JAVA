@@ -78,7 +78,7 @@ Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú vid
 Nie, budú sa používať zariadenia/počítače školy.
 
 ## 🔥 Hodnotenia, tímový projekt
-### Vlastný projekt (do 11. cvičenia) – 70 bodov
+### Vlastný projekt (do 11. cvičenia) – 50 bodov
 Vytvoríte **tímy o 5 členoch**  
 V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, SW testera a programátorov. Tímy si vedú svoje projekty v Jira Software. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdávajú aj EAP súbor.
 
