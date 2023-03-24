@@ -13,7 +13,7 @@
 12.	Manažovanie používateľov
 
 ## Logovacie Úrovne (Logging Levels)
-![logss](https://user-images.githubusercontent.com/24510943/226104456-27c5969e-4841-4802-9bec-122f72869d61.png)
+![logss](https://user-images.githubusercontent.com/24510943/226104456-27c5969e-4841-4802-9bec-122f72869d61.png)  
 **1. OFF** - Nnajvyššia možnú úroveň a je určený na vypnutie logovania. Nebudú sa zaznamenávať žiadne správy.   
 **2. FATAL** - Veľmi závažné chybové udalosti, ktoré pravdepodobne povedú k prerušeniu aplikácie. Chyby servera, ktoré bránia spusteniu aplikácie.  
 **3. ERROR** - Chybové udalosti, ktoré môžu aplikácii naďalej umožniť bežať. Chyby, ktoré  môžu umožniť obnovenie. Táto úroveň zahŕňa aj fatálne správy.  
