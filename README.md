@@ -9,6 +9,7 @@
 * Zoznam tímov a LiveCodeSession: https://docs.google.com/spreadsheets/d/1BW48BaVr8fEDfhD-jCbcbvrjXzHVNDGG/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
 * Testik Kolekcie a Polia: https://forms.gle/yvgwMZ2uRabnksvcA
 * Odovzdávanie prípravy k LiveCode Sesson: streda do 18:00 príslušného týždňa, kedy skupina prezentuje
+* Testik Vynimky a Logy: https://forms.gle/JgKxa5MzPkuxfPu37 
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
