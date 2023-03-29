@@ -1,4 +1,4 @@
-# 📟 Čo treba Logovať/čo je vhodné Logovať?
+# 📟 Čo treba Logovať/Čo je vhodné Logovať?
 1.	Udalosti typu Autentifikácia/Prihlasovanie 
 2.	Udalosti Riadenia prístupu
 3.	Udalosti typu Upload súborov a dát
@@ -203,6 +203,8 @@ SmartHome 971:[DEBUG]-11-30 19:19:46.159 RPC: error code is success
 SmartHome 19968:[DEBUG]-11-30 19:20:05.156 RPC: error code is success
 SmartHome 266216:[DEBUG]-11-30 19:24:11.387 RPC: error code is success
 ```
+### Minecraft (Java)
+![latest-log-selectall](https://user-images.githubusercontent.com/24510943/228642946-e9a2b429-0642-48c2-a657-1ef3c4bac2f8.png)
 
 ## 📕 Zdroje a inšpirácia 
 A. [Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)  
