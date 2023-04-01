@@ -197,8 +197,12 @@ Treba si skontrolovať a nastaviť správne premenné prostredia Environ v opera
 
 ![premenne-prostredia](https://user-images.githubusercontent.com/24510943/229303891-80999e42-0390-4f6d-97b3-2228ec1e1bbe.png)
 
-Ideálne po reštarte overiť v príkazovom riadku (CMD) s príkazmi java --version, javac a jshell
-
+Ideálne po reštarte overiť v príkazovom riadku (CMD) s príkazmi:
+```
+java --version
+javac -version
+jshell
+```
 ![01 04 2023 18_36_14-Administrator_ C__Windows_System32_cmd exe](https://user-images.githubusercontent.com/24510943/229303900-ac743b69-91b6-4f98-b9f2-2cc9d2273c7b.png)
 
 
