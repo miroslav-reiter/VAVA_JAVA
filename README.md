@@ -101,6 +101,7 @@ B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class dia
 #### 💡 Námety na projekty
 1. [JDownloader v2](https://jdownloader.org/)
 1. [muCommander v2](https://www.mucommander.com/)
+1. [Gannt Project v2](https://www.ganttproject.biz/)
 1. [Plánovač Kurzov a Skúšok](https://home.pearsonvue.com/) vid. prílohy
 1. [Slovensko.sk Schránky v2](https://www.slovensko.sk/sk/titulna-stranka) vid. prílohy
 
