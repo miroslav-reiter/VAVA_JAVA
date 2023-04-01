@@ -96,6 +96,8 @@ B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class dia
 3. technologická vrstva (Technologické hľadisko)
 4. Vrstvový model (Vrstvené hľadisko)
 
+‼️ **Každý študent odovzdáva v tíme všetky dokumenty a podklady** t.j. aj za projektový zámer aj za Live Code Session aj za celkový vypracovaný projekt, aby mohol dostať v AISe hodnotenie za príslušnú časť a bol oznámkovaný.  
+
 #### 💡 Námety na projekty
 1. [JDownloader v2](https://jdownloader.org/)
 1. [muCommander v2](https://www.mucommander.com/)
