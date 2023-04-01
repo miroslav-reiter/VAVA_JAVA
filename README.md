@@ -168,14 +168,27 @@ net stop winnat
 net start winnat
 ```
 
-2. Problém pri vložení Nového 
+2. Problém pri vložení Nového Pripojenia/Connection na databázový systéme MySQL verzia 5.7
+V okne Data Sources and Drivers po vyplnení všetkých údajov na pripojenie treba presne vyšpecifikovať verziu MySQL, na ktorú sa pripájate napr. 5.7
+![01 04 2023 18_33_37-Data Sources and Drivers](https://user-images.githubusercontent.com/24510943/229303938-29f36a65-52d0-4a7f-9d8b-063598a0cc2d.png)
+
+Na Tabe Advanced si nastavte vlastnosť enableTLSProtocols na hodnotu: TLSv1,TLSv1.1,TLSv1.2,TLSv1.3
+Alternatívne riešenie je nastaviť si voľbu/parameter virtuálnej mašiny: VM Options = "-Djdk.tls.disabledAlgorithms=SSLv3, TLSv1, RC4, DES, MD5withRSA, DH keySize < 1024, EC keySize < 224, 3DES_EDE_CBC, anon, NULL, include jdk.disabled.namedCurves"
+Zdroj bug: https://youtrack.jetbrains.com/issue/DBE-13313/Cant-connect-to-remote-MySQL-since-last-version-of-IntelliJ
+
+![01 04 2023 18_34_04-Data Sources and Drivers](https://user-images.githubusercontent.com/24510943/229303946-83a2fb9f-f994-426c-81a5-73cee83ebe33.png)
 
 Príklad na výstupný reťazec/URL pre pripojenie sa na databázu
 ```url
 jdbc:mysql://mysql57.r2.websupport.sk:3311/Kurz_DB_SQL
 ```
-3. Problém s verziami Java, chceme nainštalovanú verziu JDK 17
+3. Problém s verziami Java, chceme nainštalovanú verziu JDK 17 LTS
 
 **Riešenie:**    
-Treba použiť v Interpreteri pre Conda Python 3.8 t.j. downgrade verzie z 3.9 až 3.10.  
+Treba si skontrolovať a nastaviť správne premenné prostredia Environ v operačnom systéme
+![premenne-prostredia](https://user-images.githubusercontent.com/24510943/229303891-80999e42-0390-4f6d-97b3-2228ec1e1bbe.png)
+
+Ideálne po reštarte overiť v príkazovom riadku (CMD) s príkazmi java --version, javac a jshell
+![01 04 2023 18_36_14-Administrator_ C__Windows_System32_cmd exe](https://user-images.githubusercontent.com/24510943/229303900-ac743b69-91b6-4f98-b9f2-2cc9d2273c7b.png)
+
 
