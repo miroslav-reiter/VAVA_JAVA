@@ -155,3 +155,27 @@ Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnot
 1. [Oracle Blog java](https://blogs.oracle.com/java/)
 1. [Dzone Java Spotlight](https://dzone.com/java-jdk-development-tutorials-tools-news)
 1. [ArchiMate® 3.1 Specification, a Standard of The Open Group](https://pubs.opengroup.org/architecture/archimate3-doc/)
+
+## 🐞 Problémy (bugy), na ktoré môžete natrafiť
+
+1. Problém s najnovšou verziou Intellij Idea 2022.3 s Jetbrains ToolBox (aj Community aj Professional edícia) s portami pri nainštalovaní Hyper-V, Docker   
+
+**Riešenie:**  
+winnat a nepoužívať Jetbrains Toolbox    
+
+```
+net stop winnat
+net start winnat
+```
+
+2. Problém pri vložení Nového 
+
+Príklad na výstupný reťazec/URL pre pripojenie sa na databázu
+```url
+jdbc:mysql://mysql57.r2.websupport.sk:3311/Kurz_DB_SQL
+```
+3. Problém s verziami Java, chceme nainštalovanú verziu JDK 17
+
+**Riešenie:**    
+Treba použiť v Interpreteri pre Conda Python 3.8 t.j. downgrade verzie z 3.9 až 3.10.  
+
