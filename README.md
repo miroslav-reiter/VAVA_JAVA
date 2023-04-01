@@ -172,8 +172,16 @@ net start winnat
 V okne Data Sources and Drivers po vyplnení všetkých údajov na pripojenie treba presne vyšpecifikovať verziu MySQL, na ktorú sa pripájate napr. 5.7
 ![01 04 2023 18_33_37-Data Sources and Drivers](https://user-images.githubusercontent.com/24510943/229303938-29f36a65-52d0-4a7f-9d8b-063598a0cc2d.png)
 
-Na Tabe Advanced si nastavte vlastnosť enableTLSProtocols na hodnotu: TLSv1,TLSv1.1,TLSv1.2,TLSv1.3  
-Alternatívne riešenie je nastaviť si voľbu/parameter virtuálnej mašiny: VM Options = "-Djdk.tls.disabledAlgorithms=SSLv3, TLSv1, RC4, DES, MD5withRSA, DH keySize < 1024, EC keySize < 224, 3DES_EDE_CBC, anon, NULL, include jdk.disabled.namedCurves"  
+Na Tabe Advanced si nastavte vlastnosť **enableTLSProtocols** na hodnotu: 
+```
+TLSv1,TLSv1.1,TLSv1.2,TLSv1.3  
+```
+
+**Alternatívne riešenie** je nastaviť si voľbu/parameter virtuálnej mašiny: 
+```
+VM Options = "-Djdk.tls.disabledAlgorithms=SSLv3, TLSv1, RC4, DES, MD5withRSA, DH keySize < 1024, EC keySize < 224, 3DES_EDE_CBC, anon, NULL, include jdk.disabled.namedCurves"  
+```
+
 Zdroj bugu: [Can't connect to remote MySQL since last version of IntelliJ](https://youtrack.jetbrains.com/issue/DBE-13313/Cant-connect-to-remote-MySQL-since-last-version-of-IntelliJ)  
 
 ![01 04 2023 18_34_04-Data Sources and Drivers](https://user-images.githubusercontent.com/24510943/229303946-83a2fb9f-f994-426c-81a5-73cee83ebe33.png)
