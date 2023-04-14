@@ -10,6 +10,7 @@
 * Testik Kolekcie a Polia: https://forms.gle/yvgwMZ2uRabnksvcA
 * Odovzdávanie prípravy k LiveCode Sesson: streda do 18:00 príslušného týždňa, kedy skupina prezentuje
 * Testik Vynimky a Logy: https://forms.gle/JgKxa5MzPkuxfPu37 
+* JDBC a DB: https://forms.gle/qqjCDrq3sqJyMEs77 
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
