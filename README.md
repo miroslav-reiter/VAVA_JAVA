@@ -11,6 +11,7 @@
 * Odovzdávanie prípravy k LiveCode Sesson: streda do 18:00 príslušného týždňa, kedy skupina prezentuje
 * Testik Vynimky a Logy: https://forms.gle/JgKxa5MzPkuxfPu37 
 * JDBC a DB: https://forms.gle/qqjCDrq3sqJyMEs77 
+* Bundles a Formatting: https://forms.gle/uRGJRHEDLQR2JHy68
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
