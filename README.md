@@ -15,8 +15,7 @@
 * Regexy: https://forms.gle/hiYF7pxcyewMc9719
 
 * Hodnotenie tímu Dáždniky: 
-* Hodnotenie tímu Bezspánkovci: 
-
+* Hodnotenie tímu Bezspánkovci: https://forms.gle/UtRKvR7TbR6qzpeW8
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
 **Cvičenia**: Každý piatok 14:00-15:50 **formou konzultácii**  
