@@ -14,7 +14,7 @@
 * Bundles a Formatting: https://forms.gle/uRGJRHEDLQR2JHy68
 * Regexy: https://forms.gle/hiYF7pxcyewMc9719
 
-* Hodnotenie tímu Dáždniky: 
+* Hodnotenie tímu Dáždniky: https://forms.gle/VwydZJ4KgmP6ZpLF8
 * Hodnotenie tímu Bezspánkovci: https://forms.gle/UtRKvR7TbR6qzpeW8
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
