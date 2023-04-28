@@ -12,6 +12,7 @@
 * Testik Vynimky a Logy: https://forms.gle/JgKxa5MzPkuxfPu37 
 * JDBC a DB: https://forms.gle/qqjCDrq3sqJyMEs77 
 * Bundles a Formatting: https://forms.gle/uRGJRHEDLQR2JHy68
+* Regexy: https://forms.gle/hiYF7pxcyewMc9719
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
