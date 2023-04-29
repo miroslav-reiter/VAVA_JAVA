@@ -9,8 +9,8 @@
 * Zoznam tímov a LiveCodeSession: https://docs.google.com/spreadsheets/d/1BW48BaVr8fEDfhD-jCbcbvrjXzHVNDGG/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
 * Regexy: https://forms.gle/hiYF7pxcyewMc9719
 
-* Hodnotenie tímu Dáždniky: https://forms.gle/VwydZJ4KgmP6ZpLF8
-* Hodnotenie tímu Bezspánkovci: https://forms.gle/UtRKvR7TbR6qzpeW8
+* Hodnotenie tímu ***: 
+
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
 **Cvičenia**: Každý piatok 14:00-15:50 **formou konzultácii**  
