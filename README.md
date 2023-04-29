@@ -7,11 +7,6 @@
 * Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.3.2 Ultimate)  
 * Zoznam tímov a projektov: https://docs.google.com/spreadsheets/d/1zmMtOBe7Ui875LpbUjd5LQSOYLN3qgvV/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
 * Zoznam tímov a LiveCodeSession: https://docs.google.com/spreadsheets/d/1BW48BaVr8fEDfhD-jCbcbvrjXzHVNDGG/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
-* Testik Kolekcie a Polia: https://forms.gle/yvgwMZ2uRabnksvcA
-* Odovzdávanie prípravy k LiveCode Sesson: streda do 18:00 príslušného týždňa, kedy skupina prezentuje
-* Testik Vynimky a Logy: https://forms.gle/JgKxa5MzPkuxfPu37 
-* JDBC a DB: https://forms.gle/qqjCDrq3sqJyMEs77 
-* Bundles a Formatting: https://forms.gle/uRGJRHEDLQR2JHy68
 * Regexy: https://forms.gle/hiYF7pxcyewMc9719
 
 * Hodnotenie tímu Dáždniky: https://forms.gle/VwydZJ4KgmP6ZpLF8
