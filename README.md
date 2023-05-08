@@ -5,8 +5,8 @@
 * Kontakt: riaditel@it-academy.sk
 * Verzia Javy/JDK: Java SE JDK 17
 * Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.3.2 Ultimate)  
-* Zoznam tímov a projektov: https://docs.google.com/spreadsheets/d/1zmMtOBe7Ui875LpbUjd5LQSOYLN3qgvV/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
-* Zoznam tímov a LiveCodeSession: https://docs.google.com/spreadsheets/d/1BW48BaVr8fEDfhD-jCbcbvrjXzHVNDGG/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
+* Zoznam tímov a projektov:   
+* Zoznam tímov a LiveCodeSession:   
 
 * Hodnotenie tímu: ...
 
@@ -53,7 +53,7 @@
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## 🏆 Skúška
-* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **2. beh** 10:30 - 13:15 -> čas sa určí v roku 2023)
+* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **3. beh** o 14:00)
 * Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
 * Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
