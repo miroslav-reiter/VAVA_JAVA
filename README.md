@@ -4,7 +4,7 @@
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
 * Kontakt: riaditel@it-academy.sk
 * Verzia Javy/JDK: Java SE JDK 17
-* Preferované IDE: Netbeans 16 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2022.3.2 Ultimate)  
+* Preferované IDE: Netbeans 20 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2023.3.4 Ultimate)  
 * Zoznam tímov a projektov:   
 * Zoznam tímov a LiveCodeSession:   
 
