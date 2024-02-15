@@ -12,7 +12,7 @@
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
-**Cvičenia**: Každý piatok 14:00-15:50 **formou konzultácii**  
+**Cvičenia**: Každý piatok 14:00-15:30 **formou konzultácii**  
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy a jazyka ArchiMate
@@ -23,18 +23,18 @@
 1. Lokalizácia
 1. JDBC a DBMS + (technologická vrstva)
 1. XML, NIO2
-1. Regulárne výrazy + (implementačná a migračná vrstva)
+1. Regulárne výrazy
 1. Prehľad enterprise architektúr
-1. Rámec TOGAF a ADM
-1. Prehľad JEE a .NET
+1. Enteprise Architect
+1. Prezentovanie Projektov (Prehľad JEE a .NET)
 
 ## 👨‍🏫 Výsledky vzdelávania
-* Získať prehľad o platforme Java (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
+* Získať prehľad o platforme Java SE (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
 * Zdokonaliť sa vo vývoji programov pre platformu Java (Java Standard Edition)
 * Naučiť sa tvoriť desktopové GUI aplikácie vo SWING/JavaFX
 * Nadobudnúť zručnosti vo využívaní vybraných rozhraní a rozširujúcich knižníc platformy Java (Standard Edition)
 * Pripraviť sa na neskorší vývoj rozsiahlych viacvrstvových enterprise aplikácií
-* Používať jazyk ArchiMate a rámec TOGAF pri modelovaní viacvrstvových aplikácií
+* Používať jazyk ArchiMate a EA pri modelovaní viacvrstvových aplikácií
 * Zasadenie Java v kontexte JEE a .NET technológií
 
 ## Stručná osnova predmetu:
@@ -53,7 +53,7 @@
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ## 🏆 Skúška
-* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **3. beh** o 14:00)
+* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **XX. beh** o XX:XX)
 * Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
 * Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
@@ -87,12 +87,12 @@ A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RAC
 B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia)
 
 ✔️ **Odovzdávané UML diagramy** (core funkcionalita a triedy v projekte) v dokumentácii:
-* tried (class)
+* Tried (class)
 
 ✔️ **Odovzdávané ArchiMate diagramy** (core funkcionalita) v dokumentácii:
-1. biznis vrstva (organizačné hľadisko, Hľadisko na spoluprácu medzi podnikovými procesmi, Produktové hľadisko)
-2. aplikačná vrstva (Hľadisko spolupráce aplikácií) <--> balíčky (packages)
-3. technologická vrstva (Technologické hľadisko)
+1. Biznis vrstva (Organizačné hľadisko, Hľadisko na spoluprácu medzi podnikovými procesmi, Produktové hľadisko)
+2. Aplikačná vrstva (Hľadisko spolupráce aplikácií) <--> balíčky (packages)
+3. Technologická vrstva (Technologické hľadisko)
 4. Vrstvový model (Vrstvené hľadisko)
 
 ‼️ **Každý študent odovzdáva v tíme všetky dokumenty a podklady** t.j. aj za projektový zámer aj za Live Code Session aj za celkový vypracovaný projekt, aby mohol dostať v AISe hodnotenie za príslušnú časť a bol oznámkovaný.  
@@ -158,7 +158,7 @@ Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnot
 
 ## 🐞 Problémy (bugy), na ktoré môžete natrafiť
 
-1. Problém s najnovšou verziou Intellij Idea 2022.3 s Jetbrains ToolBox (aj Community aj Professional edícia) s portami pri nainštalovaní Hyper-V, Docker   
+1. Problém s najnovšou verziou Intellij Idea 2023.3.4 s Jetbrains ToolBox (aj Community aj Professional edícia) s portami pri nainštalovaní Hyper-V, Docker   
 
 **Riešenie:**  
 winnat a nepoužívať Jetbrains Toolbox    
