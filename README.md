@@ -45,7 +45,7 @@
 5. Prehľad JEE a .NET technológií
 
 ## ☕ YouTube video záznamy z prednášok a cvičení Playlist
-[YouTube kanál IT Academy](https://www.youtube.com/watch?v=0aV5g2rQCl8&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24)
+[YouTube kanál IT Academy](https://www.youtube.com/watch?v=EP-lJMnIRQc&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24&index=38))
 
 ## 🥇 Podmienky na absolvovanie predmetu
 * **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. 
