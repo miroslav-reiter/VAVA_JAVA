@@ -84,7 +84,7 @@ Vytvoríte **tímy o 5 členoch**
 V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, SW testera a programátorov. Tímy si vedú svoje projekty v Jira Software. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdávajú aj EAP súbor.
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
-B. **Program**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia)
+B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácie je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
 
 ✔️ **Odovzdávané UML diagramy** (core funkcionalita a triedy v projekte) v dokumentácii:
 * Tried (class)
@@ -110,7 +110,7 @@ Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať:
 1. **Lokalizácia** (Preklady a lokalizácia ENG a SK)
 1. **XML** (Použitá 1 vybraná XML technológia, spracovanie/parsovanie XML dokumentov, import/export do XML, SAX, DOM, StAX, JAXB, XStream, Jackson XML, XPATH, XQUERY)
 1. **Regulárne výrazy** (Vyhľadávanie s prepínačmi, filtrovanie)
-1. **JDBC** (Pripojenie na vybranú databázu [Derby](https://db.apache.org/derby/docs/10.4/devguide/cdevdvlp40653.html)/[MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) 
+1. **JDBC** (Pripojenie na vybranú databázu [Derby](https://db.apache.org/derby/docs/10.4/devguide/cdevdvlp40653.html)/[MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) **Používate výhradne JDBC** (**žiadne ORMká** čiže nie JPA, Hibernate, EclipseLink, MyBatis).
 1. **Ošetrenie/validácia vstupov** + bezpečnosť (Ochrana voči základným SQL injekciám)
 1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia 
 1. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
