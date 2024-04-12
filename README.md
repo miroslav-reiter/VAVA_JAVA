@@ -12,6 +12,7 @@
 * VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/dJx4BeinXijrGJEVA
 * VAVA - Testík 4 - JDBC a DB: https://forms.gle/vr6puPsCidX4ix9S9
 * VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/uTn2wVbnWz51rjkT9
+* VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/2r7tVCZb5W26S8eDA
 
 * Hodnotenie tímu: ...
 
