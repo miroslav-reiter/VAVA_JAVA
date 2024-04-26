@@ -14,6 +14,7 @@
 * VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/uTn2wVbnWz51rjkT9
 * VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/2r7tVCZb5W26S8eDA
 * VAVA - Testík 7 - Lokalizácia, Bundles: https://forms.gle/M9Sf5sv164kHt4bn6
+* VAVA - Testík 8 - Enterprise Architektúra EA: https://forms.gle/5X9tbRrRfeottWo57
 
 * Hodnotenie tímu: ...
 
