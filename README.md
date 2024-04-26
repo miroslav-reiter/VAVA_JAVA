@@ -18,6 +18,7 @@
 
 * Hodnotenie tímu:
 * Skupina 1 - Apes together strong - 2024: https://forms.gle/wWDKB23w338jesPf8
+* Skupina 2 - WOW_TEAM - 2024: https://forms.gle/KfBE1wpw8fhdLdWp8
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
