@@ -16,7 +16,8 @@
 * VAVA - Testík 7 - Lokalizácia, Bundles: https://forms.gle/M9Sf5sv164kHt4bn6
 * VAVA - Testík 8 - Enterprise Architektúra EA: https://forms.gle/5X9tbRrRfeottWo57
 
-* Hodnotenie tímu: ...
+* Hodnotenie tímu:
+* Skupina 1 - Apes together strong - 2024: https://forms.gle/wWDKB23w338jesPf8
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
