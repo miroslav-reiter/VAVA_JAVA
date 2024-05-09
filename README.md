@@ -127,6 +127,7 @@ Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať:
 1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia 
 1. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
 1. **Dátové zložky** musia byť **zapúzdrené** (všetky private)
+1. **5-6 obrazoviek** (Odpoveď na otázku: Aká veľká má byť aplikácia?)
 
 V projekte treba dodržovať odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na **príjemné používateľské rozhranie** na jednej strane a na druhej na dobrý **návrh** a **štruktúru**.
 
