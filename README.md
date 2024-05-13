@@ -6,6 +6,7 @@
 * Verzia Javy/JDK: Java SE JDK 17
 * Preferované IDE: Netbeans 20 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2023.3.4 Ultimate)  
 * Zoznam tímov a projektov:   https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
+  
 * Zoznam tímov a LiveCodeSession:
 * VAVA - Testik 1 - OOP: https://forms.gle/tkFkpo2FACsMWiXQ6
 * VAVA - Testík 2 - Kolekcie a Polia: https://forms.gle/RmF5Uo4TvGP1tV7h7
@@ -59,6 +60,8 @@
 * **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. V prípade, že študent, nechce realizovať projekt tímovou spolupracou alebo mu to okolnosti nedovolujú (individuálny študijný plán, výmenný pobyt, iné okolnosti) môže vypracovať celý projekt samostatne.
 * **20 %** formou **tímovej práce - 3 členovia** v podobe **live code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení - témy sa budú losovať. Hodnotí sa a body sa získavajú za prezenčnú live code session. Nahrané video slúži ako príprava a je to povinná nebodovaná súčasť.
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
+
+![komunikacia-a-fungovanie](https://github.com/miroslav-reiter/VAVA_JAVA/assets/24510943/109bf7fd-3992-4e7f-ab71-ece9b23f54d0)
 
 ## 🏆 Skúška
 * Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **XX. beh** o XX:XX)
@@ -221,4 +224,5 @@ jshell
    Prípadne konflikty v tíme si riešite interne medzi sebou (nie pan profesor/učitel on nepracuje/nekomunikuje/nerobí svoju prácu čo máme robiť...)
 
 5. Ja ako manažér, IKT architekt, hlavný programátor som urobil najviac práce, podstatne viac ako ostatní členovia a zaslúžim si viac bodov za projekt ako ostatní členovia.
+   
    **Riešenie:**  Všetci členovia tímu dostanú rovnaký počet bodov ako bolo komunikované v podmienkach od začiatku predmetu. Zvykajte si na realitu, že vždy niektorí ľudia robia viac a niekto menej. Ak budete podnikať, tak navyše budete za všetko zodpovedný a to aj za to čo ste neurobili/nepokazili. Tomuto sa vraví reálny život a skúsenosti. 
