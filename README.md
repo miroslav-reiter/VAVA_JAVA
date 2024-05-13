@@ -56,7 +56,7 @@
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=EP-lJMnIRQc&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24&index=38))
 
 ## 🥇 Podmienky na absolvovanie predmetu
-* **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. 
+* **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. V prípade, že študent, nechce realizovať projekt tímovou spolupracou alebo mu to okolnosti nedovolujú (individuálny študijný plán, výmenný pobyt, iné okolnosti) môže vypracovať celý projekt samostatne.
 * **20 %** formou **tímovej práce - 3 členovia** v podobe **live code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení - témy sa budú losovať. Hodnotí sa a body sa získavajú za prezenčnú live code session. Nahrané video slúži ako príprava a je to povinná nebodovaná súčasť.
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
@@ -89,7 +89,7 @@ Nie, budú sa používať zariadenia/počítače školy.
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 50 bodov
 Vytvoríte **tímy o 5 členoch**  
-V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, SW testera a programátorov. Tímy si vedú svoje projekty v Jira Software. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdávajú aj EAP súbor.
+V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, SW testera a programátorov. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
 B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácie je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
@@ -215,3 +215,7 @@ jshell
 ![01 04 2023 18_36_14-Administrator_ C__Windows_System32_cmd exe](https://user-images.githubusercontent.com/24510943/229303900-ac743b69-91b6-4f98-b9f2-2cc9d2273c7b.png)
 
 
+4. Problém s členom tímu, ktorý nepracuje/nespolupracuje/nekomunikujete alebo vyvoláva konflikty
+
+    **Riešenie:**  Vedúci (manažér) tímu môže vyhodiť takéto člena z tímu so súhlasom aspoň 2 členov tímu. Problematický člen si potom projekt vypracuje samostatne.
+   Prípadne konflikty v tíme si riešite interne medzi sebou (nie pan profesor/učitel on nepracuje/nekomunikuje/nerobí čo máme robiť...) 
