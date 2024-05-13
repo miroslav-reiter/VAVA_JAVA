@@ -168,7 +168,7 @@ Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnot
 1. [Dzone Java Spotlight](https://dzone.com/java-jdk-development-tutorials-tools-news)
 1. [ArchiMate® 3.1 Specification, a Standard of The Open Group](https://pubs.opengroup.org/architecture/archimate3-doc/)
 
-## 🐞 Problémy (bugy), na ktoré môžete natrafiť
+## 🐞 Problémy a bugy, na ktoré môžete natrafiť
 
 1. Problém s najnovšou verziou Intellij Idea 2023.3.4 s Jetbrains ToolBox (aj Community aj Professional edícia) s portami pri nainštalovaní Hyper-V, Docker   
 
