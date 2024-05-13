@@ -64,7 +64,7 @@
 ![komunikacia-a-fungovanie](https://github.com/miroslav-reiter/VAVA_JAVA/assets/24510943/109bf7fd-3992-4e7f-ab71-ece9b23f54d0)
 
 ## 🏆 Skúška
-* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **XX. beh** o XX:XX)
+* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **02. beh** o 10:30-13:15)
 * Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
 * Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
