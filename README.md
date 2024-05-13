@@ -218,4 +218,7 @@ jshell
 4. Problém s členom tímu, ktorý nepracuje/nespolupracuje/nekomunikujete alebo vyvoláva konflikty
 
     **Riešenie:**  Vedúci (manažér) tímu môže vyhodiť takéto člena z tímu so súhlasom aspoň 2 členov tímu. Problematický člen si potom projekt vypracuje samostatne.
-   Prípadne konflikty v tíme si riešite interne medzi sebou (nie pan profesor/učitel on nepracuje/nekomunikuje/nerobí svoju prácu čo máme robiť...) 
+   Prípadne konflikty v tíme si riešite interne medzi sebou (nie pan profesor/učitel on nepracuje/nekomunikuje/nerobí svoju prácu čo máme robiť...)
+
+5. Ja ako manažér, IKT architekt, hlavný programátor som urobil najviac práce, podstatne viac ako ostatní členovia a zaslúžim si viac bodov za projekt ako ostatní členovia.
+   **Riešenie:**  Všetci členovia tímu dostanú rovnaký počet bodov ako bolo komunikované v podmienkach od začiatku predmetu. Zvykajte si na realitu, že vždy niektorí ľudia robia viac a niekto menej. Ak budete podnikať, tak navyše budete za všetko zodpovedný a to aj za to čo ste neurobili/nepokazili. Tomuto sa vraví reálny život a skúsenosti. 
