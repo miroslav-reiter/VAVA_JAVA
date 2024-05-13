@@ -218,4 +218,4 @@ jshell
 4. Problém s členom tímu, ktorý nepracuje/nespolupracuje/nekomunikujete alebo vyvoláva konflikty
 
     **Riešenie:**  Vedúci (manažér) tímu môže vyhodiť takéto člena z tímu so súhlasom aspoň 2 členov tímu. Problematický člen si potom projekt vypracuje samostatne.
-   Prípadne konflikty v tíme si riešite interne medzi sebou (nie pan profesor/učitel on nepracuje/nekomunikuje/nerobí čo máme robiť...) 
+   Prípadne konflikty v tíme si riešite interne medzi sebou (nie pan profesor/učitel on nepracuje/nekomunikuje/nerobí svoju prácu čo máme robiť...) 
