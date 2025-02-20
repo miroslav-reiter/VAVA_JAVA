@@ -1,9 +1,9 @@
 # ☕ VAVA-JAVA
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
 * Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT
-* Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
+* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
 * Kontakt: riaditel@itacademy.sk
-* Verzia Javy/JDK: Java SE JDK 17
+* Verzia Javy/JDK: Java SE JDK 17 alebo 21 (min. 17)
 * Preferované IDE: Netbeans 20 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2023.3.4 Ultimate)  
 * Zoznam tímov a projektov:   https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
   
@@ -33,9 +33,9 @@
 1. JDBC a DBMS + (technologická vrstva)
 1. XML, NIO2
 1. Regulárne výrazy
-1. Prehľad enterprise architektúr
-1. Enteprise Architect
-1. Prezentovanie Projektov (Prehľad JEE a .NET)
+1. Prehľad enterprise architektúr + Prezentovanie Projektov
+1. Enteprise Architect + Prezentovanie Projektov
+1. Prezentovanie Projektov (Prehľad JEE)
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java SE (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
@@ -44,20 +44,20 @@
 * Nadobudnúť zručnosti vo využívaní vybraných rozhraní a rozširujúcich knižníc platformy Java (Standard Edition)
 * Pripraviť sa na neskorší vývoj rozsiahlych viacvrstvových enterprise aplikácií
 * Používať jazyk ArchiMate a EA pri modelovaní viacvrstvových aplikácií
-* Zasadenie Java v kontexte JEE a .NET technológií
+* Zasadenie Java v kontexte JEE technológií
 
 ## Stručná osnova predmetu:
 1. Štruktúra platformy Java
 2. Java vývojové technológie a štandardy
 3. Vybrané kapitoly/detaily Java Standard Edition API (napr. Collections, Logging, Localization, XML, I/O, Regular Expressions)
 4. Databázy, JDBC, jazyk SQL v Jave
-5. Prehľad JEE a .NET technológií
+5. Prehľad JEE technológií
 
 ## ☕ YouTube video záznamy z prednášok a cvičení Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=EP-lJMnIRQc&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24&index=38))
 
 ## 🥇 Podmienky na absolvovanie predmetu
-* **50 %** formou **tímovej práce - 5 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. V prípade, že študent, nechce realizovať projekt tímovou spolupracou alebo mu to okolnosti nedovolujú (individuálny študijný plán, výmenný pobyt, iné okolnosti) môže vypracovať celý projekt samostatne.
+* **50 %** formou **tímovej práce - 9/10 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. V prípade, že študent, nechce realizovať projekt tímovou spolupracou alebo mu to okolnosti nedovolujú (individuálny študijný plán, výmenný pobyt, iné okolnosti) môže vypracovať celý projekt samostatne.
 * **20 %** formou **tímovej práce - 3 členovia** v podobe **live code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení - témy sa budú losovať. Hodnotí sa a body sa získavajú za prezenčnú live code session. Nahrané video slúži ako príprava a je to povinná nebodovaná súčasť.
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
@@ -75,7 +75,7 @@ Pre absolvovanie skúšky nie je stanovený minimálny počet bodov.
 
 ### ❓ FAQ ku skúške  
 **Z čoho bude skúška?**  
-Z odprednášaných tém zameraných hlavne na Javu 80 % (cca 12 otázok) vid. nižšie a 20 % (3 otázky) zameraných na enterprise architektúru a jazyk ArchiMate
+Z odprednášaných tém zameraných hlavne na Javu 67 % (cca 10 otázok) vid. nižšie a 33 % (5 otázok) zameraných na enterprise architektúru a jazyk ArchiMate
 1. OOP Java
 2. Kolekcie
 3. Lokalizácia
@@ -91,8 +91,8 @@ Nie, budú sa používať zariadenia/počítače školy.
 
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 50 bodov
-Vytvoríte **tímy o 5 členoch**  
-V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, SW testera a programátorov. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
+Vytvoríte **tímy o 9-10 členoch**  
+V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
 B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácie je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
@@ -119,14 +119,15 @@ Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať:
 1. **Kolekcie** (treba vybrať **vhodné dátové štruktúry** podľa povahy/architektúry projektu)
 1. **Logovanie** (Logovanie biznis logiky aplikácie + Logovanie Exceptions/Errors)
 1. **Lokalizácia** (Preklady a lokalizácia ENG a SK)
-1. **XML** (Použitá 1 vybraná XML technológia, spracovanie/parsovanie XML dokumentov, import/export do XML, SAX, DOM, StAX, JAXB, XStream, Jackson XML, XPATH, XQUERY)
+1. **XML** (Import a export dát do XML)
 1. **Regulárne výrazy** (Vyhľadávanie s prepínačmi, filtrovanie)
 1. **JDBC** (Pripojenie na vybranú databázu [Derby](https://db.apache.org/derby/docs/10.4/devguide/cdevdvlp40653.html)/[MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) **Používate výhradne JDBC** (**žiadne ORMká** čiže nie JPA, Hibernate, EclipseLink, MyBatis).
 1. **Ošetrenie/validácia vstupov** + bezpečnosť (Ochrana voči základným SQL injekciám)
 1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia 
 1. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
-1. **Dátové zložky** musia byť **zapúzdrené** (všetky private)
+1. **Dátové zložky** musia byť správne **zapúzdrené**
 1. **5-6 obrazoviek** (Odpoveď na otázku: Aká veľká má byť aplikácia?)
+1. Použitie knižnice **Lombok** pre automatizáciu generovania opakujúceho sa kódu
 
 V projekte treba dodržovať odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na **príjemné používateľské rozhranie** na jednej strane a na druhej na dobrý **návrh** a **štruktúru**.
 
@@ -147,7 +148,7 @@ Video ma odpovedať na otázky:
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný. Video slúži ako vaša príprava na prezenčnú obhajobu projektu.
 
 ### 🏅 Hodnotenie a hodnotiaci kľúč
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Hodnotí sa systémom peer review s vedúcim, ktorý je vyučujúci a má záverečné slovo pri prideľovanám bodov. Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém vid. zoznam 11 požiadaviek vyššie. Každý študent hodnotí aj iné projekty v rámci cvičenia (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 40 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Hodnotí sa a body sa získavajú za prezenčnú obhajobu. Nahrané video slúži ako príprava a je to **povinná nebodovaná súčasť projektu**. Nefunkčná, padajúca aplikácia alebo aplikácia obsahujúca zjavné chyby alebo chyby, ktoré spôsobujú pád celej aplikácie sa automaticky hodnotia 0 bodmi alebo minimálnym počtom bodov.   
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** Hodnotí sa systémom peer review s vedúcim, ktorý je vyučujúci a má záverečné slovo pri prideľovanám bodov. Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém vid. zoznam 12 požiadaviek vyššie. Každý študent hodnotí aj iné projekty v rámci cvičenia (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 40 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Hodnotí sa a body sa získavajú za prezenčnú obhajobu. Nahrané video slúži ako príprava a je to **povinná nebodovaná súčasť projektu**. Nefunkčná, padajúca aplikácia alebo aplikácia obsahujúca zjavné chyby alebo chyby, ktoré spôsobujú pád celej aplikácie sa automaticky hodnotia 0 bodmi alebo minimálnym počtom bodov.   
 
 ## 📰 Odporúčane zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
