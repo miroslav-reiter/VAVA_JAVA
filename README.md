@@ -52,6 +52,7 @@
 3. Vybrané kapitoly/detaily Java Standard Edition API (napr. Collections, Logging, Localization, XML, I/O, Regular Expressions)
 4. Databázy, JDBC, jazyk SQL v Jave
 5. Prehľad JEE technológií
+6. Podniková architektúru a ArchiMate
 
 ## ☕ YouTube video záznamy z prednášok a cvičení Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=EP-lJMnIRQc&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24&index=38))
