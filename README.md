@@ -78,7 +78,7 @@ Náhrada výučby:
 
 Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo nečestné konanie bude mať za následok vylúčenie zo skúšky a hodnotenie študenta známkou FX.
 
-Pre absolvovanie skúšky nie je stanovený minimálny počet bodov.
+Pre získanie zápočtu alebo absolvovanie skúšky nie je stanovený minimálny počet bodov.
 
 ### ❓ FAQ ku skúške  
 **Z čoho bude skúška?**  
