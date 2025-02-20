@@ -2,12 +2,12 @@
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
 * Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT
 * Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
-* Kontakt: riaditel@itacademy.sk
+* Kontakt: riaditel@itacademy.sk / qreiterm@stuba.sk
 * Verzia Javy/JDK: Java SE JDK 17 alebo 21 (min. 17)
 * Preferované IDE: Netbeans 20 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2023.3.4 Ultimate)  
-* Zoznam tímov a projektov:   https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
-* Zoznam tímov a LiveCodeSession:
-* 
+* Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
+* Hodnotenie tímu:
+
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Testik 1 - OOP: https://forms.gle/tkFkpo2FACsMWiXQ6
 * VAVA - Testík 2 - Kolekcie a Polia: https://forms.gle/RmF5Uo4TvGP1tV7h7
@@ -17,8 +17,6 @@
 * VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/2r7tVCZb5W26S8eDA
 * VAVA - Testík 7 - Lokalizácia, Bundles: https://forms.gle/M9Sf5sv164kHt4bn6
 * VAVA - Testík 8 - Enterprise Architektúra EA: https://forms.gle/5X9tbRrRfeottWo57
-
-* Hodnotenie tímu:
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
@@ -34,9 +32,9 @@
 1. JDBC a DBMS + (technologická vrstva)
 1. XML, NIO2
 1. Regulárne výrazy
-1. Prehľad enterprise architektúr + Prezentovanie Projektov
-1. Enteprise Architect + Prezentovanie Projektov
-1. Prezentovanie Projektov (Prehľad JEE)
+1. Prehľad enterprise architektúr + **Prezentovanie Projektov**
+1. Enteprise Architect + **Prezentovanie Projektov**
+1. Prehľad JEE + **Prezentovanie Projektov**
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java SE (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
@@ -94,7 +92,7 @@ Nie, budú sa používať zariadenia/počítače školy.
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 50 bodov
 Vytvoríte **tímy o 9-10 členoch**  
-V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
+V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
 B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácie je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
@@ -128,12 +126,12 @@ Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať:
 1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia 
 1. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
 1. **Dátové zložky** musia byť správne **zapúzdrené**
-1. **5-6 obrazoviek** (Odpoveď na otázku: Aká veľká má byť aplikácia?)
+1. **5-8 obrazoviek** (Odpoveď na otázku: Aká veľká má byť aplikácia?)
 1. Použitie knižnice **Lombok** pre automatizáciu generovania opakujúceho sa kódu
 
 V projekte treba dodržovať odporúčané postupy (best practices) a konvencie. Využiť objektovo orientované princípy a techniky bez zbytočných duplicít kódu (DRY). Treba myslieť na **príjemné používateľské rozhranie** na jednej strane a na druhej na dobrý **návrh** a **štruktúru**.
 
-Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/y)** a **dokumentáciou** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu. Rovnako každý tím nahrá všetky súbory do svojho verejného repozitára na GitHub/Gitlab/Bitbucket, aby bol k dispozícii iným tímom v skupine na hodnotenie. Projektové zadanie aj výsledný projekt a jeho projektovú dokumentáciu odovzdávate ako 1 samostatný PDF dokument, v ktorom je všetko, nie porozdelované po súboroch.
+Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spolu so **spustiteľným JAR súborom (+ knižnice/y)** a **dokumentáciou** v miestach odovzdania AIS. Dátum a čas odovzdania si študenti a tímy sledujú sami v AISe a sú povinní ho rešpektovať. V prípade neodovzdania projektu do stanoveného času a dátumu sa projekt hodnotí 0 bodmi. Vedúci tímu + jeden z členov tímu nahrá tieto súbory do AISu. Rovnako každý tím nahrá všetky súbory do svojho verejného repozitára na GitHub/Gitlab/Bitbucket, aby bol k dispozícii iným tímom v skupine na hodnotenie. Projektové zadanie aj výsledný projekt a jeho **projektovú dokumentáciu odovzdávate ako 1 samostatný PDF dokument**, v **ktorom** **je** **všetko**, nie porozdelované po súboroch.
 
 Ďalej tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. **Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video**. **Video musí byť verejne dostupné cez odkaz** v popise miesta odovzdania. V prípade nedostupnosti odkazu na video či nefunkčnosti aplikácie sa projekt hodnotí 0 bodmi.
 
@@ -171,7 +169,7 @@ Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnot
 1. [Dzone Java Spotlight](https://dzone.com/java-jdk-development-tutorials-tools-news)
 1. [ArchiMate® 3.1 Specification, a Standard of The Open Group](https://pubs.opengroup.org/architecture/archimate3-doc/)
 
-## 🐞 Problémy a bugy, na ktoré môžete natrafiť
+## 🐞 Projektové problémy a SW bugy, na ktoré môžete natrafiť
 
 1. Problém s najnovšou verziou Intellij Idea 2023.3.4 s Jetbrains ToolBox (aj Community aj Professional edícia) s portami pri nainštalovaní Hyper-V, Docker   
 
@@ -220,11 +218,10 @@ jshell
 ```
 ![01 04 2023 18_36_14-Administrator_ C__Windows_System32_cmd exe](https://user-images.githubusercontent.com/24510943/229303900-ac743b69-91b6-4f98-b9f2-2cc9d2273c7b.png)
 
-
 4. Problém s členom tímu, ktorý nepracuje/nespolupracuje/nekomunikujete alebo vyvoláva konflikty
 
     **Riešenie:**  Vedúci (manažér) tímu môže vyhodiť takéto člena z tímu so súhlasom aspoň 2 členov tímu. Problematický člen si potom projekt vypracuje samostatne.
-   Prípadne konflikty v tíme si riešite interne medzi sebou (nie pan profesor/učitel on nepracuje/nekomunikuje/nerobí svoju prácu čo máme robiť...)
+   Prípadne konflikty v tíme si riešite interne medzi sebou (nie pán profesor/učitel on nepracuje/nekomunikuje/nerobí svoju prácu čo máme robiť...)
 
 5. Ja ako manažér, IKT architekt, hlavný programátor som urobil najviac práce, podstatne viac ako ostatní členovia a zaslúžim si viac bodov za projekt ako ostatní členovia.
    
