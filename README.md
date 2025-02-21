@@ -9,7 +9,7 @@
 * Hodnotenie tímu:
 
  ## 📝 VAVA Cvičenia Testiky
-* VAVA - Testik 1 - OOP: https://forms.gle/tkFkpo2FACsMWiXQ6
+* VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
 * VAVA - Testík 2 - Kolekcie a Polia: https://forms.gle/RmF5Uo4TvGP1tV7h7
 * VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/dJx4BeinXijrGJEVA
 * VAVA - Testík 4 - JDBC a DB: https://forms.gle/vr6puPsCidX4ix9S9
