@@ -37,11 +37,11 @@
 1. Prehľad JEE + **Prezentovanie Projektov** - **16.5.2025**
 
 Náhrada výučby: 
-● 12. 05. 2025 (pondelok) výučba ako v pondelok, náhrada 21. 04. 2025
-● 13. 05. 2025 (utorok) výučba ako v štvrtok, náhrada 01. 05. 2025
-● 14. 05. 2025 (streda) výučba ako v stredu, náhrada 23. 04. 2025
-● 15. 05. 2025 (štvrtok) výučba ako v štvrtok, náhrada 08. 05. 2025
-● 16. 05. 2025 (piatok) výučba ako v piatok, náhrada 18. 04. 2025
+● 12. 05. 2025 (pondelok) výučba ako v pondelok, náhrada 21. 04. 2025  
+● 13. 05. 2025 (utorok) výučba ako v štvrtok, náhrada 01. 05. 2025  
+● 14. 05. 2025 (streda) výučba ako v stredu, náhrada 23. 04. 2025  
+● 15. 05. 2025 (štvrtok) výučba ako v štvrtok, náhrada 08. 05. 2025  
+● 16. 05. 2025 (piatok) výučba ako v piatok, náhrada 18. 04. 2025  
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java SE (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
