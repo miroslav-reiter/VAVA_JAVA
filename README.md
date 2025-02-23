@@ -36,7 +36,7 @@
 1. Enteprise Architect + **Prezentovanie Projektov**
 1. Prehľad JEE + **Prezentovanie Projektov** - **16.5.2025**
 
-**Náhrada výučby:  **   
+**Náhrada výučby:**   
 ● 12. 05. 2025 (pondelok) výučba ako v pondelok, náhrada 21. 04. 2025    
 ● 13. 05. 2025 (utorok) výučba ako v štvrtok, náhrada 01. 05. 2025  
 ● 14. 05. 2025 (streda) výučba ako v stredu, náhrada 23. 04. 2025  
