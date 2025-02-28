@@ -99,7 +99,7 @@ Nie, budú sa používať zariadenia/počítače školy.
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 50 bodov
 Vytvoríte **tímy o 9-10 členoch**  
-V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
+V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Povinné sú role: Vedúci, IT architekt, tester a programátori. Ostatné sú voliteľné a odporúčané role. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
 B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácie je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
