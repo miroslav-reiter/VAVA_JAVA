@@ -11,7 +11,7 @@
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
 * VAVA - Testík 2 - Kolekcie a Polia: https://forms.gle/RmF5Uo4TvGP1tV7h7
-* VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/dJx4BeinXijrGJEVA
+* VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/Y4WGuskH4FuFQtwv5
 * VAVA - Testík 4 - JDBC a DB: https://forms.gle/vr6puPsCidX4ix9S9
 * VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/uTn2wVbnWz51rjkT9
 * VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/2r7tVCZb5W26S8eDA
