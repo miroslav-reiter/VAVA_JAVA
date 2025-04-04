@@ -14,7 +14,7 @@
 * VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/Y4WGuskH4FuFQtwv5
 * VAVA - Testík 4 - JDBC a DB: https://forms.gle/d6xLTBQGu1ohi4kLA
 * VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/sDtR4hCuRAmGxP4eA 
-* VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/2r7tVCZb5W26S8eDA
+* VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/E8g52SwgB5LkyoM58 
 * VAVA - Testík 7 - Lokalizácia, Bundles: https://forms.gle/M9Sf5sv164kHt4bn6
 * VAVA - Testík 8 - Enterprise Architektúra EA: https://forms.gle/5X9tbRrRfeottWo57
 
