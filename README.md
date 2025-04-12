@@ -20,7 +20,7 @@
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
-**Cvičenia**: Každý piatok 14:00-15:30 **formou konzultácii**  
+**Cvičenia**: Každý piatok 14:00-15:30 **formou konzultácii a študentských live code sessions**  
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy a jazyka ArchiMate
