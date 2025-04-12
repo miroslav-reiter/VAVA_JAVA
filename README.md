@@ -132,7 +132,7 @@ Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať:
 1. **Ošetrenie/validácia vstupov** + bezpečnosť (Ochrana voči základným SQL injekciám)
 1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia 
 1. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
-1. **Dátové zložky** musia byť správne **zapúzdrené**
+1. **Dátové zložky** musia byť správne **zapúzdrené**. Správne využitie enkapsulácie.
 1. **5-8 obrazoviek** (Odpoveď na otázku: Aká veľká má byť aplikácia?)
 1. Použitie knižnice **Lombok** pre automatizáciu generovania opakujúceho sa kódu
 
