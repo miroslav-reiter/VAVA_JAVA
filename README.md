@@ -22,6 +22,14 @@
 **Prednášky**: Každý piatok 12:00-13:50   
 **Cvičenia**: Každý piatok 14:00-15:30 **formou konzultácii a študentských live code sessions**  
 
+11.4. TOGAF a ADM
+25.4. Java EE a DAO —→ Posledné LiveCode Sessions
+
+2.5., 9.5. a 16.5.2025 Obhajoby projektov
+2.5. (3 projekty)
+9.5. (2 projekty)
+16.5. (2 projekty)
+
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy a jazyka ArchiMate
 1. Štruktúra platformy a enteprise architektúry
