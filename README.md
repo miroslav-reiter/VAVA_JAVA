@@ -7,6 +7,8 @@
 * Preferované IDE: Netbeans 20 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2023.3.4 Ultimate)  
 * Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
 * Hodnotenie tímu:
+  * Skupina 1 - NeverTouchGrass: https://docs.google.com/forms/d/e/1FAIpQLSdEb5nsJQoQlEZMji8hESLA95s0jkScx0_PVGKL3a7Fiq17og/viewform?usp=sharing
+  * 
 
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
