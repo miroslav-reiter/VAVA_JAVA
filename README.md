@@ -34,10 +34,9 @@
 11.4. TOGAF a ADM  
 25.4. Java EE a DAO → Posledné LiveCode Sessions  
 
-2.5., 9.5. a 16.5.2025 Obhajoby projektov  
+2.5. a 16.5.2025 Obhajoby projektov  
 2.5. (3 projekty)  
-9.5. (2 projekty)  
-16.5. (2 projekty)  
+16.5. (4 projekty)  
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy a jazyka ArchiMate
