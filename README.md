@@ -10,7 +10,8 @@
   * **Skupina 1 - NeverTouchGrass**: https://docs.google.com/forms/d/e/1FAIpQLSdEb5nsJQoQlEZMji8hESLA95s0jkScx0_PVGKL3a7Fiq17og/viewform?usp=sharing
   * **Skupina 2 - Sme čarovní**: https://docs.google.com/forms/d/e/1FAIpQLSdAMFW6f8J3BgPJlg6x_fYlzMRbtZxI42PhHwIjVDekIrhIUg/viewform?usp=sharing
   * **Skupina 3 - 3 SPRCHY DO BAKALÁRA**: https://docs.google.com/forms/d/e/1FAIpQLScSo8Mu5eSXFGp-xwjQ9_Cg-Bx-4oryHDzh3EzgKVR9qwheKw/viewform?usp=sharing
-    
+
+      
   * **Skupina 4 - 🍔boss kfc🍔**: https://docs.google.com/forms/d/e/1FAIpQLSe3rAIZ3bR_xZUaRPEBbixoMfqd3knvklhsswlOy8Ysur94Yw/viewform?usp=dialog
   * **Skupina 5 - FausTeam**: https://docs.google.com/forms/d/e/1FAIpQLSdtmBzkowGONDS6jxq3mO_uexLsgAr8Fl-aAjAA1sLz4ItoAA/viewform?usp=dialog 
   * **Skupina 6 - GnOME**: https://docs.google.com/forms/d/e/1FAIpQLSfm7AHOwXi8tDGVH_6IH9pufmUfoJDsond6N27b18CgpiBnJQ/viewform?usp=dialog 
