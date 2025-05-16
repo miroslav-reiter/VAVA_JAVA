@@ -7,9 +7,14 @@
 * Preferované IDE: Netbeans 20 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2023.3.4 Ultimate)  
 * Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
 * Hodnotenie tímu:
-  * Skupina 1 - NeverTouchGrass: https://docs.google.com/forms/d/e/1FAIpQLSdEb5nsJQoQlEZMji8hESLA95s0jkScx0_PVGKL3a7Fiq17og/viewform?usp=sharing
-  * Skupina 2 - Sme čarovní: https://docs.google.com/forms/d/e/1FAIpQLSdAMFW6f8J3BgPJlg6x_fYlzMRbtZxI42PhHwIjVDekIrhIUg/viewform?usp=sharing
-  * Skupina 3 - 3 SPRCHY DO BAKALÁRA: https://docs.google.com/forms/d/e/1FAIpQLScSo8Mu5eSXFGp-xwjQ9_Cg-Bx-4oryHDzh3EzgKVR9qwheKw/viewform?usp=sharing 
+  * **Skupina 1 - NeverTouchGrass**: https://docs.google.com/forms/d/e/1FAIpQLSdEb5nsJQoQlEZMji8hESLA95s0jkScx0_PVGKL3a7Fiq17og/viewform?usp=sharing
+  * **Skupina 2 - Sme čarovní**: https://docs.google.com/forms/d/e/1FAIpQLSdAMFW6f8J3BgPJlg6x_fYlzMRbtZxI42PhHwIjVDekIrhIUg/viewform?usp=sharing
+  * **Skupina 3 - 3 SPRCHY DO BAKALÁRA**: https://docs.google.com/forms/d/e/1FAIpQLScSo8Mu5eSXFGp-xwjQ9_Cg-Bx-4oryHDzh3EzgKVR9qwheKw/viewform?usp=sharing
+    
+  * **Skupina 4 - 🍔boss kfc🍔**: https://docs.google.com/forms/d/e/1FAIpQLSe3rAIZ3bR_xZUaRPEBbixoMfqd3knvklhsswlOy8Ysur94Yw/viewform?usp=dialog
+  * **Skupina 5 - FausTeam**: https://docs.google.com/forms/d/e/1FAIpQLSdtmBzkowGONDS6jxq3mO_uexLsgAr8Fl-aAjAA1sLz4ItoAA/viewform?usp=dialog 
+  * **Skupina 6 - GnOME**: https://docs.google.com/forms/d/e/1FAIpQLSfm7AHOwXi8tDGVH_6IH9pufmUfoJDsond6N27b18CgpiBnJQ/viewform?usp=dialog 
+  * **Skupina 7 - SAD JANKA KRALA**: https://docs.google.com/forms/d/e/1FAIpQLSd5HQ41ymn6JYT5oIpZkkHHA6ME494h-_deTOve3LkShdL_Zg/viewform?usp=dialog 
 
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
