@@ -58,7 +58,7 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 6. Podniková architektúru a ArchiMate
 
 ## ☕ YouTube video záznamy z prednášok a cvičení Playlist
-[YouTube kanál IT Academy](https://www.youtube.com/watch?v=EP-lJMnIRQc&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24&index=38))
+[YouTube Kanál Miroslav Reiter - VITA Academy](https://www.youtube.com/watch?v=EP-lJMnIRQc&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24&index=38)
 
 ## 🥇 Podmienky na absolvovanie predmetu
 * **50 %** formou **tímovej práce - 9 až 10 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. V prípade, že študent, nechce realizovať projekt tímovou spolupracou alebo mu to okolnosti nedovolujú (individuálny študijný plán, výmenný pobyt, iné okolnosti) môže vypracovať celý projekt samostatne.
