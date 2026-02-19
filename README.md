@@ -37,8 +37,8 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 1. Prehľad JEE + **Prezentovanie Projektov** 
 
 **Náhrada výučby:**   
-● 12.5. utorok	Výučba ako v piatok, náhrada za 03. 04. 2026
-● 15.5. 	Výučba ako v piatok, náhrada za 01. 05. 2026
+● 12.5. utorok	Výučba ako v piatok, náhrada za 03.04.2026  
+● 15.5. Výučba ako v piatok, náhrada za 01.05.2026  
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java SE (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
