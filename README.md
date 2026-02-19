@@ -5,7 +5,7 @@
 * Kontakt: riaditel@itacademy.sk / qreiterm@stuba.sk
 * Verzia Javy/JDK: Java SE JDK 25
 * Preferované IDE: Netbeans (alebo podľa preferencií Eclipse/IntelliJ IDEA)  
-* Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
+* Zoznam tímov a projektov + LiveCodeSession: [https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1wGS0J-ltHtJrPRjySLHQohebu2AV2D7-/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true)
 * Hodnotenie tímov:
 
  ## 📝 VAVA Cvičenia Testiky
@@ -38,7 +38,8 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 1. Prehľad JEE + **Prezentovanie Projektov** - **16.5.2025**
 
 **Náhrada výučby:**   
-● 16. 05. 2025 (piatok) výučba ako v piatok, náhrada 18. 04. 2025  
+● 12.5. utorok	Výučba ako v piatok, náhrada za 03. 04. 2026
+● 15.5. 	Výučba ako v piatok, náhrada za 01. 05. 2026
 
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java SE (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
@@ -62,7 +63,7 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 
 ## 🥇 Podmienky na absolvovanie predmetu
 * **50 %** formou **tímovej práce - 9 až 10 členov** v podobe **projektu**, implementácie a jednoduchej dokumentácie prototypu postaveného na vybraných technológiách JAVA a DBMS. Tímy si vedú svoje projekty v Jira Software. V prípade, že študent, nechce realizovať projekt tímovou spolupracou alebo mu to okolnosti nedovolujú (individuálny študijný plán, výmenný pobyt, iné okolnosti) môže vypracovať celý projekt samostatne.
-* **20 %** formou **tímovej práce - 5 až 6 členov** v podobe **live code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení - témy sa budú losovať. Hodnotí sa a body sa získavajú za prezenčnú live code session. Nahrané video slúži ako príprava a je to povinná nebodovaná súčasť.
+* **20 %** formou **tímovej práce - 4 až 6 členov** v podobe **live code session pre príslušnú tému** (Kolekcie, Lokalizácia, Logovanie, JDBC, XML, NIO.2), príprava na code session (cvične nahrané video k príslušnej témy, ktorú prezentujete), scenár s praktickými príkladmi s názornými ukážkami a zdrojovými kódmi, následne odprezentovanie na cvičení - témy sú pridelené. Hodnotí sa a body sa získavajú za prezenčnú live code session. Nahrané video slúži ako príprava a je to povinná nebodovaná súčasť.
 * **30 % skúška** podobná **oficiálnej Oracle Java certifikačnej skúške OCP (Oracle Certified Professional) Java SE 17 Developer 1Z0-829**, alebo absolvovanie **oficiálnej** **certifikačnej skúšky OCP 1Z0-829**: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 ![komunikacia-a-fungovanie](https://github.com/miroslav-reiter/VAVA_JAVA/assets/24510943/109bf7fd-3992-4e7f-ab71-ece9b23f54d0)
@@ -83,7 +84,7 @@ Pre získanie zápočtu alebo absolvovanie skúšky nie je stanovený minimálny
 
 ### ❓ FAQ ku skúške  
 **Z čoho bude skúška?**  
-Z odprednášaných tém zameraných hlavne na Javu 67 % (cca 10 otázok) vid. nižšie a 33 % (5 otázok) zameraných na enterprise architektúru a jazyk ArchiMate
+Z odprednášaných tém zameraných hlavne na Javu 60 % (cca 9 otázok) vid. nižšie a 40 % (6 otázok) zameraných na enterprise architektúru a jazyk ArchiMate
 1. OOP Java
 2. Kolekcie
 3. Lokalizácia
@@ -99,7 +100,7 @@ Nie, budú sa používať zariadenia/počítače školy.
 
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 50 bodov
-Vytvoríte **tímy o 9-10 členoch**  
+Budete **tímy o 9-10 členoch**  
 V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Povinné sú role: Vedúci, IT architekt, tester a programátori. Ostatné sú voliteľné a odporúčané role. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
@@ -131,7 +132,7 @@ Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať:
 1. **Regulárne výrazy** (Vyhľadávanie s prepínačmi, filtrovanie)
 1. **JDBC** (Pripojenie na vybranú databázu [Derby](https://db.apache.org/derby/docs/10.4/devguide/cdevdvlp40653.html)/[MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) **Používate výhradne JDBC** (**žiadne ORMká** čiže nie JPA, Hibernate, EclipseLink, MyBatis).
 1. **Ošetrenie/validácia vstupov** + bezpečnosť (Ochrana voči základným SQL injekciám)
-1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia 
+1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia
 1. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
 1. **Dátové zložky** musia byť správne **zapúzdrené**. Správne využitie enkapsulácie.
 1. **5-8 obrazoviek** (Odpoveď na otázku: Aká veľká má byť aplikácia?)
