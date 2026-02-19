@@ -28,8 +28,7 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 1. Štruktúra platformy a enteprise architektúry
 1. Vývojové technológie + (biznis vrstva)
 1. Kolekcie + (aplikačná vrstva)
-1. Logovanie 
-1. Lokalizácia
+1. Logovanie a Lokalizácia
 1. JDBC a DBMS + (technologická vrstva)
 1. XML, NIO2
 1. Regulárne výrazy
