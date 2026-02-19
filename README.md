@@ -1,10 +1,10 @@
 # ☕ VAVA-JAVA
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
 * Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT
-* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSc., DBA, Ing. Paed. IGIP
+* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., PhD, MBA, DBA, MPA, DPA, MSc., DSc., Ing. Paed. IGIP
 * Kontakt: riaditel@itacademy.sk / qreiterm@stuba.sk
-* Verzia Javy/JDK: Java SE JDK 17 alebo 21 (min. 17)
-* Preferované IDE: Netbeans 20 (alebo podľa preferencií Eclipse/IntelliJ IDEA 2023.3.4 Ultimate)  
+* Verzia Javy/JDK: Java SE JDK 25
+* Preferované IDE: Netbeans (alebo podľa preferencií Eclipse/IntelliJ IDEA)  
 * Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true
 * Hodnotenie tímov:
 
