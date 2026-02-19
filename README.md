@@ -1,22 +1,22 @@
 # ☕ VAVA-JAVA
 * Vývoj Aplikácií s Viacvrstvovou Architektúrou (VAVA) 
 * Slovenská technická univerzita v Bratislave Fakulta Informatiky a Informačných Technológií STU FIIT
-* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., PhD, MBA, DBA, MPA, DPA, MSc., DSc., Ing. Paed. IGIP
+* Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., PhD, MBA, DBA, MPA, DPA, MSc., DSc., Ing. Paed. IGIP
 * Kontakt: riaditel@itacademy.sk / qreiterm@stuba.sk
 * Verzia Javy/JDK: Java SE JDK 25
 * Preferované IDE: Netbeans (alebo podľa preferencií Eclipse/IntelliJ IDEA)  
-* Zoznam tímov a projektov + LiveCodeSession: [https://docs.google.com/spreadsheets/d/1UCdTJ30tkXzmAsogZB2ZlcoE7kQygvQl/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1wGS0J-ltHtJrPRjySLHQohebu2AV2D7-/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true)
+* Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1wGS0J-ltHtJrPRjySLHQohebu2AV2D7-/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true 
 * Hodnotenie tímov:
 
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
-* VAVA - Testík 2 - Kolekcie a Polia: https://forms.gle/RmF5Uo4TvGP1tV7h7
-* VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/Y4WGuskH4FuFQtwv5
-* VAVA - Testík 4 - JDBC a DB: https://forms.gle/d6xLTBQGu1ohi4kLA
-* VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/sDtR4hCuRAmGxP4eA 
-* VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/E8g52SwgB5LkyoM58 
-* VAVA - Testík 7 - Lokalizácia, Bundles: https://forms.gle/FSazh6UMw7xK9nm26
-* VAVA - Testík 8 - Enterprise Architektúra EA: https://forms.gle/5X9tbRrRfeottWo57
+* VAVA - Testík 2 - Kolekcie a Polia: 
+* VAVA - Testík 3 - Výnimky a Logy: 
+* VAVA - Testík 4 - JDBC a DB: 
+* VAVA - Testík 5 - Regexy a Stringy: 
+* VAVA - Testík 6 - IO, NIO/NIO2, Files: 
+* VAVA - Testík 7 - Lokalizácia, Bundles: 
+* VAVA - Testík 8 - Enterprise Architektúra EA:
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
@@ -35,7 +35,7 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 1. Regulárne výrazy
 1. Prehľad enterprise architektúr + **Prezentovanie Projektov**
 1. Enteprise Architect + **Prezentovanie Projektov**
-1. Prehľad JEE + **Prezentovanie Projektov** - **16.5.2025**
+1. Prehľad JEE + **Prezentovanie Projektov** 
 
 **Náhrada výučby:**   
 ● 12.5. utorok	Výučba ako v piatok, náhrada za 03. 04. 2026
@@ -87,10 +87,9 @@ Pre získanie zápočtu alebo absolvovanie skúšky nie je stanovený minimálny
 Z odprednášaných tém zameraných hlavne na Javu 60 % (cca 9 otázok) vid. nižšie a 40 % (6 otázok) zameraných na enterprise architektúru a jazyk ArchiMate
 1. OOP Java
 2. Kolekcie
-3. Lokalizácia
-4. Logovanie
-5. NIO.2
-6. JDBC
+3. Lokalizácia a Logovanie
+4. NIO.2
+5. JDBC
 
 **Z čoho sa máme učiť?**  
 Všetky prezentácie, materiály PDF sú dostupné na Githube na YouTube sú videozáznamy z prednášok. Odporúčam si prejsť testíky, ktoré sa robili na cvičeniach a zdroje k certifikačnej skúške Oracle Java SE 17 Developer 1Z0-829 + ArchiMate a Enterprise Architektúru.
@@ -101,19 +100,18 @@ Nie, budú sa používať zariadenia/počítače školy.
 ## 🔥 Hodnotenia, tímový projekt
 ### Vlastný projekt (do 11. cvičenia) – 50 bodov
 Budete **tímy o 9-10 členoch**  
-V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Povinné sú role: Vedúci, IT architekt, tester a programátori. Ostatné sú voliteľné a odporúčané role. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj EAP súbor.
+V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, administrátora, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Povinné sú role: Vedúci, IT architekt, tester a programátori. Ostatné sú voliteľné a odporúčané role. Tímy si vedú svoje projekty v Jira Software alebo Jetbrains YouTrack. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj FEAP/QEAP súbor.
 
 A. **Projektový zámer** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia)  
-B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (class diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácie je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
+B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (Component diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácia je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
 
-✔️ **Odovzdávané UML diagramy** (core funkcionalita a triedy v projekte) v dokumentácii:
-* Tried (class)
+✔️ **Odovzdávaný UML diagram** v dokumentácii:
+* Komponentový diagram (Component diagram)
 
-✔️ **Odovzdávané ArchiMate diagramy** (core funkcionalita) v dokumentácii:
-1. Biznis vrstva (Organizačné hľadisko, Hľadisko na spoluprácu medzi podnikovými procesmi, Produktové hľadisko)
-2. Aplikačná vrstva (Hľadisko spolupráce aplikácií) <--> balíčky (packages)
-3. Technologická vrstva (Technologické hľadisko)
-4. Vrstvový model (Vrstvené hľadisko)
+✔️ **Odovzdávané ArchiMate diagramy** v dokumentácii:
+1. Biznis a aplikačná vrstva (Hľadisko používania aplikácie)
+2. Technologická vrstva (Technologické hľadisko)
+3. Vrstvový model (Vrstvené hľadisko)
 
 ‼️ **Každý študent odovzdáva v tíme všetky dokumenty a podklady** t.j. aj za projektový zámer aj za Live Code Session aj za celkový vypracovaný projekt, aby mohol dostať v AISe hodnotenie za príslušnú časť a bol oznámkovaný.  
 
@@ -173,7 +171,7 @@ Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnot
 3. Oracle Certified Professional, Java SE 17 Developer Certification Overview https://education.oracle.com/java-se-17-developer/pexam_1Z0-829
 
 ### 🌐 Elektronické zdroje:
-1. [Oracle Java Dokumentácia: Java Platform, Standard Edition 11 API Specification, 2022](https://docs.oracle.com/en/java/javase/17/docs/api/)
+1. [Oracle Java Dokumentácia: Java Platform, Standard Edition 25 API Specification](https://docs.oracle.com/en/java/javase/25/docs/api/index.html)
 1. [Oracle Blog java](https://blogs.oracle.com/java/)
 1. [Dzone Java Spotlight](https://dzone.com/java-jdk-development-tutorials-tools-news)
-1. [ArchiMate® 3.1 Specification, a Standard of The Open Group](https://pubs.opengroup.org/architecture/archimate3-doc/)
+1. [ArchiMate® 3.2 Specification, a Standard of The Open Group](https://pubs.opengroup.org/architecture/archimate3-doc/)
