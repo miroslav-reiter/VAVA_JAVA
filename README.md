@@ -127,8 +127,9 @@ Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém a mať:
 1. **Viacvrstvovú architektúru** s jasným oddelením minimálne týchto vrstiev:  
 – Prezentačná vrstva (GUI)  
 – Biznis vrstva (aplikačná logika)  
-– Dátová / perzistentná vrstva (JDBC, DB)
+– Dátová / perzistentná vrstva (JDBC, DB)  
 Vrstvy musia byť oddelené balíčkami. Prezentačná vrstva nesmie pristupovať priamo na databázu.  
+
 1. **Kolekcie** (treba vybrať **vhodné dátové štruktúry** podľa povahy/architektúry projektu)
 1. **Logovanie** (Logovanie biznis logiky aplikácie + Logovanie Exceptions/Errors)
 1. **Lokalizácia** (Preklady a lokalizácia ENG a SK)
@@ -136,7 +137,7 @@ Vrstvy musia byť oddelené balíčkami. Prezentačná vrstva nesmie pristupova�
 1. **Regulárne výrazy** (Vyhľadávanie s prepínačmi, filtrovanie)
 1. **JDBC** (Pripojenie na vybranú databázu [MySQL](https://dev.mysql.com/downloads/connector/j/)/[PostgreSQL](https://jdbc.postgresql.org/)/[SQLite](https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/)/[Oracle Database](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html), ukladanie dát do DB), môžu sa použiť aj NoSQL databázy za predpokladu, že použijete **JDBC** napr. [MongoDB](https://www.mongodb.com/docs/datalake/tutorial/jdbc-driver/) **Používate výhradne JDBC** (**žiadne ORMká** čiže nie JPA, Hibernate, EclipseLink, MyBatis).
 1. **Ošetrenie/validácia vstupov** + bezpečnosť (Ochrana voči základným SQL injekciám) a správne zapúzdrené dátové modely (enkapsulácia, prístup cez get/set metódy, žiadne public polia)
-1. **GUI** aplikácia (Swing, JavaFX), nie Android aplikácia, nie Spring a Spring boot aplikácia
+1. **GUI** aplikácia (Swing, JavaFX) alebo **portálové riešenie Liferay (Community Edition CE)**, nie Android aplikácia, nie Spring a Spring boot aplikácia
 1. Aplikácia by mala byť navrhnutá pre 3 **rôznych používateľov/aktérov** napr. admin, power/super user, používateľ (user)
 1. **5-8 obrazoviek** (Odpoveď na otázku: Aká veľká má byť aplikácia?)
 1. Použitie knižnice **Lombok** pre automatizáciu generovania opakujúceho sa kódu
