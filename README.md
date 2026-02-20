@@ -21,7 +21,7 @@
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
-**Cvičenia**: Každý piatok 14:00-15:30 **formou konzultácii a študentských live code sessions**  
+**Cvičenia**: Každý piatok 14:00-15:30 **formou konzultácií a študentských Live Code Sessions**  
 Študenti sú povinní sledovať všetky termíny a dátumy samostatne v AISe a v miestach odovzdania.
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
@@ -45,7 +45,7 @@
 ## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad o platforme Java SE (Java Standard Edition), jej architektúre, štruktúre a vlastnostiach
 * Zdokonaliť sa vo vývoji programov pre platformu Java (Java Standard Edition)
-* Naučiť sa tvoriť desktopové GUI aplikácie vo SWING/JavaFX
+* Naučiť sa tvoriť desktopové GUI aplikácie vo Swing/JavaFX
 * Nadobudnúť zručnosti vo využívaní vybraných rozhraní a rozširujúcich knižníc platformy Java (Standard Edition)
 * Pripraviť sa na neskorší vývoj rozsiahlych viacvrstvových enterprise aplikácií
 * Používať jazyk ArchiMate a EA pri modelovaní viacvrstvových aplikácií
