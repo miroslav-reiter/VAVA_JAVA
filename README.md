@@ -22,11 +22,11 @@
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
 **Cvičenia**: Každý piatok 14:00-15:30 **formou konzultácii a študentských live code sessions**  
-Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne podľa AISu a miest odovzdania.
+Študenti sú povinní sledovať všetky termíny a dátumy samostatne v AISe a v miestach odovzdania.
 
 ## 🔥 Sylabus/Čo nás čaká a neminie...
 1. Úvod do Javy a jazyka ArchiMate
-1. Štruktúra platformy a enteprise architektúry
+1. Štruktúra platformy a enterprise architektúry
 1. Vývojové technológie + (biznis vrstva)
 1. Kolekcie + (aplikačná vrstva)
 1. Logovanie
@@ -35,7 +35,7 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 1. XML, NIO2
 1. Regulárne výrazy
 1. Prehľad enterprise architektúr + **Prezentovanie Projektov**
-1. Enteprise Architect + **Prezentovanie Projektov**
+1. Enterprise Architect + **Prezentovanie Projektov**
 1. Prehľad JEE + **Prezentovanie Projektov** 
 
 **Náhrada výučby:**   
@@ -57,7 +57,7 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 3. Vybrané kapitoly/detaily Java Standard Edition API (napr. Collections, Logging, Localization, XML, I/O, Regular Expressions)
 4. Databázy, JDBC, jazyk SQL v Jave
 5. Prehľad JEE technológií
-6. Podniková architektúru a ArchiMate
+6. Podniková architektúra a ArchiMate
 
 ## ☕ YouTube video záznamy z prednášok a cvičení Playlist
 [YouTube Kanál Miroslav Reiter - VITA Academy](https://www.youtube.com/watch?v=EP-lJMnIRQc&list=PLIu_ZdHo7Pk8VkVfUW06vbZGtzxF9GR24&index=38)
@@ -70,7 +70,7 @@ Všetky termíny a dátumy sú študenti si povinní si sledovať samostatne pod
 ![komunikacia-a-fungovanie](https://github.com/miroslav-reiter/VAVA_JAVA/assets/24510943/109bf7fd-3992-4e7f-ab71-ece9b23f54d0)
 
 ## 🏆 Skúška
-* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa podľa rozpisu - **ACPU**: **03. beh** o 13,30-16,15)
+* Bude realizovaná **prezenčne** v **priestoroch školy** (miestnosť podľa rozpisu - **ACPU**: **03. beh** o 13,30-16,15)
 * Bude pripravený **test v AISe** s uzatvorenými otázkami (closed test).
 * Rozsah: **15 otázok** - Časový limit: **30 minút** - každá otázka za 2 body
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
@@ -103,7 +103,7 @@ Nie, budú sa používať zariadenia/počítače školy.
 Budete **tímy o 9-10 členoch**  
 V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Povinné sú role: Vedúci, IT architekt, tester a programátori. Ostatné sú voliteľné a odporúčané role. Tímy si vedú svoje projekty v Atlassian Jira Software. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj FEAP/QEAP súbor.
 
-A. **Projektový zámer (Vision Document)** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia) - Projektovú zámer odovzdávate ako 1 samostatný PDF dokument (PDF export z Atlassian Confluence) 
+A. **Projektový zámer (Vision Document)** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (do 5. cvičenia) - Projektový zámer odovzdávate ako 1 samostatný PDF dokument (PDF export z Atlassian Confluence) 
 B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (Component diagram), EA ArchiMate diagramov** – 40 bodov – (do 11. cvičenia). **Aplikácia je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).
 
 ✔️ **Odovzdávaný UML diagram** v dokumentácii:
@@ -150,7 +150,7 @@ Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spol
 
 Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy, nepadá, out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky. Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom.
 
-Video ma odpovedať na otázky: 
+Video má odpovedať na otázky: 
 1. Ako funguje aplikácia? 
 2. Aká je biznis a aplikačná logika/vrstva SW?
 3. Aká je architektúra SW a použité návrhové vzory?
@@ -161,9 +161,9 @@ Video ma odpovedať na otázky:
 Berte to ako priateľský rozhovor s potenciálnym technologickým investorom alebo zákazníkom, ktorý je technologicky orientovaný. Video slúži ako vaša príprava na prezenčnú obhajobu projektu.
 
 ### 🏅 Hodnotenie a hodnotiaci kľúč
-Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** **Pri prezentovaní projektu nie sú dovolené používať mobilné zariadenia a papiere k prezentovaniu.** Hodnotí sa systémom peer review s vedúcim, ktorý je vyučujúci a má záverečné slovo pri prideľovanám bodov. Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém vid. zoznam 12 požiadaviek vyššie. Každý študent hodnotí aj iné projekty v rámci cvičenia (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 40 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Hodnotí sa a body sa získavajú za prezenčnú obhajobu. Nahrané video slúži ako príprava a je to **povinná nebodovaná súčasť projektu**. Nefunkčná, padajúca aplikácia alebo aplikácia obsahujúca zjavné chyby alebo chyby, ktoré spôsobujú pád celej aplikácie sa automaticky hodnotia 0 bodmi alebo minimálnym počtom bodov.   
+Video bude súčasťou dokumentácie a **projekty sa budú prezentovať a hodnotiť aj priamo na cvičeniach vo forme súťaže medzi jednotlivými tímami.** **Pri prezentovaní projektu nie sú dovolené používať mobilné zariadenia a papiere k prezentovaniu.** Hodnotí sa systémom peer review s vedúcim, ktorý je vyučujúci a má záverečné slovo pri prideľovaní bodov. Vlastný projekt **MUSÍ obsahovať** veci z odprednášaných tém vid. zoznam 12 požiadaviek vyššie. Každý študent hodnotí aj iné projekty v rámci cvičenia (kvalita/prevedenie/realizácia/splnenie požiadaviek/GUI) do pripraveného dotazníka na hodnotenie. Študent tak môže ovplyvniť výsledné bodové hodnotenie za projekty v rozsahu (0-15 % hodnotenia, samozrejme v rámci povoleného počtu 40 bodov za projekt). **Konečné slovo má pri rozhodovaní a prideľovaní bodov vyučujúci**. Hodnotí sa a body sa získavajú za prezenčnú obhajobu. Nahrané video slúži ako príprava a je to **povinná nebodovaná súčasť projektu**. Nefunkčná, padajúca aplikácia alebo aplikácia obsahujúca zjavné chyby alebo chyby, ktoré spôsobujú pád celej aplikácie sa automaticky hodnotia 0 bodmi alebo minimálnym počtom bodov.   
 
-## 📰 Odporúčane zdroje, knihy, príprava na skúšku
+## 📰 Odporúčané zdroje, knihy, príprava na skúšku
 ### 📚 Základné knihy:
 1. BLOCH, J. Effective Java. Boston: Addison - Wesley, 2nd edition, 2008. ISBN 03-213-566-8-3
 1. NAFTALIN, M. -- WADLER, P. Java Generics and Collections. Sebastopol, USA: O'Reilly Media, 1st edition, 2006. 286 s. ISBN 05-965-277-5-6
