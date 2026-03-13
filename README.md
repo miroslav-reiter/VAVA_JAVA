@@ -12,7 +12,7 @@
 * VAVA - Dotazník - https://forms.gle/ACfD1qTzMiLRoDE16
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
 * VAVA - Testík 2 - Kolekcie a Polia: https://forms.gle/MHRmL8d8QTj2nexq6
-* VAVA - Testík 3 - Výnimky a Logy: 
+* VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/F4wn1TYXCU5cQDCt5
 * VAVA - Testík 4 - JDBC a DB: 
 * VAVA - Testík 5 - Regexy a Stringy: 
 * VAVA - Testík 6 - IO, NIO/NIO2, Files: 
