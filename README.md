@@ -14,7 +14,7 @@
 * VAVA - Testík 2 - Kolekcie a Polia: https://forms.gle/MHRmL8d8QTj2nexq6
 * VAVA - Testík 3 - Výnimky a Logy: https://forms.gle/F4wn1TYXCU5cQDCt5
 * VAVA - Testík 4 - JDBC a DB: https://forms.gle/fVdKyXG9WbKVw5oo9 
-* VAVA - Testík 5 - Regexy a Stringy: 
+* VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/NNcHJK1gGn76VPn9A
 * VAVA - Testík 6 - IO, NIO/NIO2, Files: 
 * VAVA - Testík 7 - Lokalizácia, Bundles: 
 * VAVA - Testík 8 - Enterprise Architektúra EA:
