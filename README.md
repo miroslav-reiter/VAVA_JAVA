@@ -76,8 +76,8 @@
 * Na skúške treba mať so sebou študentský preukaz a zabezpečený prístup do AISu.
 
 ### Skúšky
-* RT 23.5. ACPU (80-100) 3. beh (13,30-16,15)
-* OT 20.6. ACPU (80-100) 3. beh (13,30-16,15)
+* RT 22.5. ACPU (80-100) 3. beh (13,30-16,15)
+* OT 17.6. ACPU (80-100) 3. beh (13,30-16,15)
 
 Nerešpektovanie pravidiel, narušovanie poriadku na skúške, odpisovanie alebo nečestné konanie bude mať za následok vylúčenie zo skúšky a hodnotenie študenta známkou FX.
 
