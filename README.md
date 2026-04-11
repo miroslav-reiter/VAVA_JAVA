@@ -16,7 +16,7 @@
 * VAVA - Testík 4 - JDBC a DB: https://forms.gle/fVdKyXG9WbKVw5oo9 
 * VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/NNcHJK1gGn76VPn9A
 * VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/prib7anWkdMfNJMr7
-* VAVA - Testík 7 - Lokalizácia, Bundles: 
+* VAVA - Testík 7 - Lokalizácia, Bundles: https://forms.gle/wJSu6MfD5LNmSjw48  
 * VAVA - Testík 8 - Enterprise Architektúra EA:
 
 ## Organizácia predmetu
