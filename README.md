@@ -17,7 +17,7 @@
 * VAVA - Testík 5 - Regexy a Stringy: https://forms.gle/NNcHJK1gGn76VPn9A
 * VAVA - Testík 6 - IO, NIO/NIO2, Files: https://forms.gle/prib7anWkdMfNJMr7
 * VAVA - Testík 7 - Lokalizácia, Bundles: https://forms.gle/wJSu6MfD5LNmSjw48  
-* VAVA - Testík 8 - Enterprise Architektúra EA:
+* VAVA - Testík 8 - Enterprise Architektúra EA: https://forms.gle/YvJHUQ3itvYX1vvHA 
 
 ## Organizácia predmetu
 **Prednášky**: Každý piatok 12:00-13:50   
