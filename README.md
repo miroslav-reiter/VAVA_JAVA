@@ -6,7 +6,20 @@
 * Verzia Javy/JDK: Java SE JDK 25
 * Preferované IDE: Netbeans (alebo podľa preferencií Eclipse/IntelliJ IDEA)  
 * Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1wGS0J-ltHtJrPRjySLHQohebu2AV2D7-/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true 
-* Hodnotenie tímov:
+
+## Hodnotenie tímov:
+
+Tím 1 - iPOS Pro Max: https://forms.gle/ecrT3Z1f83to7EBU8
+
+Tím 2 - Šporixx: https://forms.gle/gjc6LKYL9xbtrM3k6
+
+Tím 3 - BAIS: https://forms.gle/yJDesL47SzuRkuXy6
+
+Tím 4 - Triplify: https://forms.gle/LcfZpoVMyuCjSmCo8
+
+Tím 5 - FinaM: https://forms.gle/mgT1dheBqws7D2k18
+
+Tím 6 - Shippin: https://forms.gle/BvAZLp3FdE5rZ5on7
 
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Dotazník - https://forms.gle/ACfD1qTzMiLRoDE16
