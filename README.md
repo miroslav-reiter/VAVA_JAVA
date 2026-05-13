@@ -19,7 +19,9 @@ Tím 6 - Shippin: https://forms.gle/BvAZLp3FdE5rZ5on7
 
 ### Piatok
 Tím 7 - Rabbit:  https://forms.gle/ZtmMokjkhe2Rut1f9  
+
 Tím 8 - A:  https://forms.gle/a6N5pGqXMKHed1Dw6  
+
 Tím 8 - B: https://forms.gle/uzYwonsNgmvXhQWu6  
 
  ## 📝 VAVA Cvičenia Testiky
