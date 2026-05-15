@@ -24,6 +24,8 @@ Tím 8 - A:  https://forms.gle/a6N5pGqXMKHed1Dw6
 
 Tím 8 - B: https://forms.gle/uzYwonsNgmvXhQWu6  
 
+Tím 8 - C: https://forms.gle/GUBGK2deDCXsVkiy8
+
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Dotazník - https://forms.gle/ACfD1qTzMiLRoDE16
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
