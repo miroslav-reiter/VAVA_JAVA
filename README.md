@@ -7,8 +7,6 @@
 * Preferované IDE: Netbeans (alebo podľa preferencií Eclipse/IntelliJ IDEA)  
 * Zoznam tímov a projektov + LiveCodeSession: https://docs.google.com/spreadsheets/d/1wGS0J-ltHtJrPRjySLHQohebu2AV2D7-/edit?usp=sharing&ouid=100112972226340140004&rtpof=true&sd=true 
 
-## Hodnotenie tímov:
-
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Dotazník - https://forms.gle/ACfD1qTzMiLRoDE16
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
