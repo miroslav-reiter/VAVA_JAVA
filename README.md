@@ -9,23 +9,6 @@
 
 ## Hodnotenie tímov:
 
-### Utorok
-Tím 1 - iPOS Pro Max: https://forms.gle/ecrT3Z1f83to7EBU8  
-Tím 2 - Šporixx: https://forms.gle/gjc6LKYL9xbtrM3k6  
-Tím 3 - BAIS: https://forms.gle/yJDesL47SzuRkuXy6  
-Tím 4 - Triplify: https://forms.gle/LcfZpoVMyuCjSmCo8  
-Tím 5 - FinaM: https://forms.gle/mgT1dheBqws7D2k18  
-Tím 6 - Shippin: https://forms.gle/BvAZLp3FdE5rZ5on7  
-
-### Piatok
-Tím 7 - Rabbit:  https://forms.gle/ZtmMokjkhe2Rut1f9  
-
-Tím 8 - A:  https://forms.gle/a6N5pGqXMKHed1Dw6  
-
-Tím 8 - B: https://forms.gle/uzYwonsNgmvXhQWu6  
-
-Tím 8 - C: https://forms.gle/GUBGK2deDCXsVkiy8
-
  ## 📝 VAVA Cvičenia Testiky
 * VAVA - Dotazník - https://forms.gle/ACfD1qTzMiLRoDE16
 * VAVA - Testik 1 - OOP: https://forms.gle/3u3qmfzNiVPcRXJaA
