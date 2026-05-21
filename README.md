@@ -103,7 +103,7 @@ Budete **tímy o 9-10 členoch**
 V tíme je **1 vedúci (manažér alebo Scrum master)**, každá skupina si ho demokraticky zvolí alebo sa sám diktátorsky zvolí. Ďalej každý tím bude mať: IT architekta, 2x SW testerov, databázového špecialistu, UX/UI špecialistu/grafika a programátorov. Povinné sú role: Vedúci, IT architekt, tester a programátori. Ostatné sú voliteľné a odporúčané role. Tímy si vedú svoje projekty v Atlassian Jira Software. UML a ArchiMate diagramy modelujú v Enterprise Architecte a odovzdáva sa aj FEAP/QEAP súbor.
 
 A. **Projektový zámer (Vision Document)** a predstavenie tímu s rozdelením úloh a rôl (**RACI matica**) – 10 bodov – (cca do 5. cvičenia podľa dátumu miesta odovzdania v AISe) - Projektový zámer odovzdávate ako 1 samostatný PDF dokument (PDF export z Atlassian Confluence)   
-B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (Component diagram), EA ArchiMate diagramov** – 40 bodov – (cca do 11. cvičenia podľa dátumu miesta odovzdania v AISe). **Aplikácia je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript).  
+B. **Aplikácia**, **video prezentácia** a **dokumentácia vrátane UML (Component diagram), EA ArchiMate diagramov** – 40 bodov – (cca do 11. cvičenia podľa dátumu miesta odovzdania v AISe). **Aplikácia je napísaná výhradne v Jave** (nie Kotlin, nie Scala, nie Clojure, nie JavaScript, nie Python).  
 
 ✔️ **Odovzdávaný UML diagram** v dokumentácii:
 * Komponentový diagram (Component diagram)
@@ -147,7 +147,7 @@ Pri projekte sa odovzdávajú **zdrojové kódy** a **projektový súbor** spol
 
 Ďalej tím pripraví **video** (15-20 minút), kde odprezentuje svoje zadanie. **Do popisu v miestach odovzdania zašle odkaz na YouTube/Vimeo video**. **Video musí byť verejne dostupné cez odkaz** v popise miesta odovzdania. V prípade nedostupnosti odkazu na video či nefunkčnosti aplikácie sa projekt hodnotí 0 bodmi.
 
-Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy, nepadá, out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky. Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom.
+Najprv vo videu ukážete a demonštrujete, ako sa váš program používa a či má ošetrené vstupy, nepadá, out of memory. V druhej časti otvoríte kód a vysvetlíte dôležité časti logiky. Každý člen tímu vysvetľuje svoju časť, ktorú mal na starosti. V prípade, že použijete súbory a zdrojové kódy z internetu je povinné uvádzať všetky použité zdroje. Študent musí rozumieť každému riadku daného kódu a orientovať sa v ňom (aj časti, ktoré boli vytvorené AI a vibe codingom). Nesmie nastať situácia, že toto neviem, čo robí a na čo je, to vytvorili umelá inteligencia alebo AI agent.
 
 Video má odpovedať na otázky: 
 1. Ako funguje aplikácia? 
